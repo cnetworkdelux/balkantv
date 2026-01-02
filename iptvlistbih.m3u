@@ -44,31 +44,23 @@ https://webtvstream.bhtelecom.ba/rtrs_plus.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/hls13/bhrtportal_1200.m3u8
 
-#EXTINF:-1 tvg-id="tvcg1.me" tvg-name="RTCG 1" tvg-country="ME" tvg-language="CNR" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTCG 1
+#EXTINF:-1 tvg-id="tvcg1.me" tvg-name="RTCG 1" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/6KYKlP9.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTCG 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://23.88.66.93/RTCG_1/index.m3u8
 
-#EXTINF:-1 tvg-id="tvcg2.me" tvg-name="RTCG 2" tvg-country="ME" tvg-language="CNR" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTCG 2
+#EXTINF:-1 tvg-id="tvcg2.me" tvg-name="RTCG 2" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/575R82s.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTCG 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://23.88.66.93/RTCG_2/index.m3u8
 
-#EXTINF:-1 tvg-id="tvcg3.me" tvg-name="RTCG 3" tvg-country="ME" tvg-language="CNR" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTCG 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="mne.me" tvg-name="TVCG MNE" tvg-country="ME" tvg-language="CNR" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TVCG MNE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/tvcg_mne.m3u8
-
-#EXTINF:-1 tvg-id="rtvhb.ba" tvg-name="RTV Herceg-Bosne" tvg-country="BA" tvg-language="BOS" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTV Herceg-Bosne
+#EXTINF:-1 tvg-id="rtvhb.ba" tvg-name="RTV Herceg-Bosne" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/YclTDtJ.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTV Herceg-Bosne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rtvpulsbrcko.ba" tvg-name="RTV Puls Brcko" tvg-country="BA" tvg-language="BOS" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTV Puls Brcko
+#EXTINF:-1 tvg-id="rtvpulsbrcko.ba" tvg-name="RTV Puls Brcko" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/9frnNL4.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTV Puls Brcko
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://tv.rtvpulsbrcko.ba:8001/live/index.m3u8
 
-#EXTINF:-1 tvg-id="rtvbn.ba" tvg-name="BN TV" tvg-country="BA" tvg-language="BOS" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",BN TV
+#EXTINF:-1 tvg-id="rtvbn.ba" tvg-name="BN TV" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/WbhOFjT.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",BN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rtvbn.tv:8080/live/index.m3u8
 
@@ -443,7 +435,12 @@ https://strm.hdtvizlecanli.com/live/atv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
 
-#EXTINF:-1 tvg-id="Puls24.at" tvg-name="Puls 24" tvg-country="AT" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Puls 24
+#EXTINF:-1 tvg-id="puls4.at" tvg-name="Puls 4" tvg-country="AT" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Puls 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://euroroyals.com:8080/play/live.php?mac=00:1A:79:00:20:77&stream=2287&extension=ts
+
+#EXTINF:-1 tvg-id="puls24.at" tvg-name="Puls 24" tvg-country="AT" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Puls 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1284&extension=ts
