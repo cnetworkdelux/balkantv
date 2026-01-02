@@ -1,1 +1,1191 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="rts1.rs" tvg-name="RTS 1" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://51.83.135.95/RTS1/index.m3u8
+
+#EXTINF:-1 tvg-id="rts2.rs" tvg-name="RTS 2" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://51.83.135.95/RTS2/index.m3u8
+
+#EXTINF:-1 tvg-id="rts3.rs" tvg-name="RTS 3" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://51.83.135.95/RTS3/index.m3u8
+
+#EXTINF:-1 tvg-id="rtssvet.rs" tvg-name="RTS Svet" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTS Svet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/rts_svet.m3u8
+
+#EXTINF:-1 tvg-id="hrt1.hr" tvg-name="HRT 1" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://23.88.66.93/HRT_1/index.m3u8
+
+#EXTINF:-1 tvg-id="hrt2.hr" tvg-name="HRT 2" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://23.88.66.93/HRT_2/index.m3u8
+
+#EXTINF:-1 tvg-id="hrt3.hr" tvg-name="HRT 3" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://23.88.66.93/HRT_3/index.m3u8
+
+#EXTINF:-1 tvg-id="hrt4.hr" tvg-name="HRT 4" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://23.88.66.93/HRT_4/index.m3u8
+
+#EXTINF:-1 tvg-id="hrtint.hr" tvg-name="HRT Int." tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT Int.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.166.252.230/Hrt5/index.m3u8
+
+#EXTINF:-1 tvg-id="rtrs.ba" tvg-name="RTRS" tvg-country="BA" tvg-language="BOS" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTRS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://23.88.66.93/RTRS/index.m3u8
+
+#EXTINF:-1 tvg-id="rtrsplus.ba" tvg-name="RTRS Plus" tvg-country="BA" tvg-language="BOS" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTRS Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/rtrs_plus.m3u8
+
+#EXTINF:-1 tvg-id="bhrt.ba" tvg-name="BHRT" tvg-country="BA" tvg-language="BOS" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",BHRT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hls13/bhrtportal_1200.m3u8
+
+#EXTINF:-1 tvg-id="ftv.ba" tvg-name="FTV" tvg-country="BA" tvg-language="BOS" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",FTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.166.252.230/FTV/index.m3u8
+
+#EXTINF:-1 tvg-id="tvcg1.me" tvg-name="RTCG 1" tvg-country="ME" tvg-language="CNR" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTCG 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33016&extension=ts
+http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
+http://23.88.66.93/RTCG_1/index.m3u8
+
+#EXTINF:-1 tvg-id="tvcg2.me" tvg-name="RTCG 2" tvg-country="ME" tvg-language="CNR" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTCG 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33017&extension=ts
+http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+http://23.88.66.93/RTCG_2/index.m3u8
+
+#EXTINF:-1 tvg-id="tvcg3.me" tvg-name="RTCG 3" tvg-country="ME" tvg-language="CNR" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTCG 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33014&extension=ts
+https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mne.me" tvg-name="TVCG MNE" tvg-country="ME" tvg-language="CNR" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TVCG MNE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33018&extension=ts
+https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
+https://webtvstream.bhtelecom.ba/tvcg_mne.m3u8
+
+#EXTINF:-1 tvg-id="rtvhb.ba" tvg-name="RTV Herceg-Bosne" tvg-country="BA" tvg-language="BOS" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTV Herceg-Bosne
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rtvpulsbrcko.ba" tvg-name="RTV Puls Brcko" tvg-country="BA" tvg-language="BOS" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTV Puls Brcko
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://tv.rtvpulsbrcko.ba:8001/live/index.m3u8
+
+#EXTINF:-1 tvg-id="rtvbn.ba" tvg-name="BN TV" tvg-country="BA" tvg-language="BOS" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",BN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rtvbn.tv:8080/live/index.m3u8
+
+#EXTINF:-1 tvg-id="superstartv.rs" tvg-name="Superstar TV" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Superstar TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://tvip.zeroonemac.xyz:8080/play/live.php?mac=00:1A:79:6E:29:16&stream=442419&extension=ts
+
+#EXTINF:-1 tvg-id="kurir.rs" tvg-name="Kurir TV" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Kurir TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
+
+#EXTINF:-1 tvg-id="blictv.rs" tvg-name="Blic TV" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Blic TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdn.maksnet.tv/
+https://677c038a28f30.streamlock.net/blictv-secure/smil:blictv-secure.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="k1info.rs" tvg-name="K1 Info" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",K1 Info
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdn.maksnet.tv/
+https://677c038a28f30.streamlock.net/minacordmedia-secure/k1studio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="b92.rs" tvg-name="B92" tvg-country="RS" tvg-language="SRP" tvg-logo=""; grouptitle="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",B92
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.81.240.65:15000/udp/233.233.233.28:12000
+
+#EXTINF:-1 tvg-id="happytv.rs" tvg-name="Happy TV" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Happy TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://51.83.135.95/Happy/index.m3u8
+
+#EXTINF:-1 tvg-id="rtl.hr" tvg-name="RTL (HR)" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTL (HR)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=14931&extension=ts
+
+#EXTINF:-1 tvg-id="rtl2.hr" tvg-name="RTL 2 (HR)" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTL 2 (HR)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=14930&extension=ts
+
+#EXTINF:-1 tvg-id="domatv.hr" tvg-name="Doma TV" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Doma TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=14942&extension=ts
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=14941&extension=ts
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33136&extension=ts
+
+#EXTINF:-1 tvg-id="novas.rs" tvg-name="Nova S" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Nova S
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://n1-bg-ku-r1-2.umn.cdn.united.cloud/stream?i=H9FAErjFl1QBwEedJgdWqQ&a=RyqZAfXpLzotsDGgYgnw78siAfqVm4mgb4ZDkxyXwzzt9ZIfmBixU3E6rmniY-ysjiI49j9MkTtSplU1H3uIvUN59ftih6Cd5rBan_nrKRLFTJsFvNKr2bxcKkIuF6WvTcM5bAg55G_i1B-7devbnvS0li1Y2RUfksV_hUYJJwvflJJxMwUZTnJhRds0tehuNOdzPWSJz9qclkdFr4FiegiOAlwIWAkfzybqEpeMe34&sp=novas&u=novas&session=206c0697-4b8e-2322-2a08-718e206505df&player=m3u8
+https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
+
+#EXTINF:-1 tvg-id="novatv.hr" tvg-name="Nova TV" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Nova TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=14934&extension=ts
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=14933&extension=ts
+http://dyndns.iptvposokuca.info:82/live?cId=78&uId=27&deviceUser=6dP2fz690FrBk1pG&devicePass=8COeM82rcYPnpbnF
+http://185.166.252.230/NovaTV/index.m3u8
+
+#EXTINF:-1 tvg-id="novam.me" tvg-name="Nova M" tvg-country="ME" tvg-language="CNR" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Nova M
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33012&extension=ts
+
+#EXTINF:-1 tvg-id="prva.rs" tvg-name="Prva (RS)" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Prva (RS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://46.240.143.86:8065/prva
+
+#EXTINF:-1 tvg-id="prva.me" tvg-name="Prva (CG)" tvg-country="ME" tvg-language="CNR" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Prva (CG)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://5.57.74.130:8000/play/a01c/index.m3u8
+
+#EXTINF:-1 tvg-id="redtv.rs" tvg-name="Red TV" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Red TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge8.pink.rs/redtv/index.m3u8
+
+#EXTINF:-1 tvg-id="pink.rs" tvg-name="Pink" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Pink
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge8.pink.rs/pinktv/index.m3u8
+
+#EXTINF:-1 tvg-id="pinkbh.rs" tvg-name="Pink BH" tvg-country="BA" tvg-language="BOS" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Pink BH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=30662&extension=ts
+
+#EXTINF:-1 tvg-id="pinkplus.rs" tvg-name="Pink Plus" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Pink Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/pink_plus.m3u8
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=30639&extension=ts
+
+#EXTINF:-1 tvg-id="narodnatv.rs" tvg-name="Narodna TV" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Narodna TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge8.pink.rs/narodnatv/index.m3u8
+
+#EXTINF:-1 tvg-id="alternativa.ba" tvg-name="Alternativna Televizija" tvg-country="BA" tvg-language="BOS" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Alternativna Televizija
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vpn.komtel.ba/hls/mylivestream.m3u8
+
+#EXTINF:-1 tvg-id="televizijam.ba" tvg-name="Televizija M" tvg-country="BA" tvg-language="BOS" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Televizija M
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.tv-m.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="toktv.rs" tvg-name="Tok TV" tvg-country="BA" tvg-language="BOS" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Tok TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://toktv.ba/
+https://elara.netcomm.rs/toktv/index.fmp4.m3u8?token=toktv
+
+#EXTINF:-1 tvg-id="hayat.ba" tvg-name="Hayat" tvg-country="BA" tvg-language="BOS" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Hayat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://23.88.66.93/HAYAT/index.m3u8
+
+#EXTINF:-1 tvg-id="obn.ba" tvg-name="OBN" tvg-country="BA" tvg-language="BOS" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",OBN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://23.88.66.93/OBN/index.m3u8
+
+#EXTINF:-1 tvg-id="face.ba" tvg-name="FACE" tvg-country="BA" tvg-language="BOS" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",FACE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://23.88.66.93/Face/index.m3u8
+
+#EXTINF:-1 tvg-id="belleamie.rs" tvg-name="TV Belle Amie" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV Belle Amie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://92.60.238.10:1935/live/belleamie/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvhram.rs" tvg-name="TV Hram" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV Hram
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vod1.laki.eu/live/hram/index.m3u8
+
+#EXTINF:-1 tvg-id="studiob.rs" tvg-name="Studio B" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Studio B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rtvassabac.rs" tvg-name="RTV AS Sabac" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTV AS Sabac
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://srv1.adriatelekom.com/TVAS/index.m3u8
+
+#EXTINF:-1 tvg-id="rtvmirleposavic.rs" tvg-name="RTV Mir Leposavic" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTV Mir Leposavic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rtvmir.info/MIR/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="jefimija.rs" tvg-name="Jefimija TV Krusevac" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Jefimija TV Krusevac
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.jefimija.eu/hls/stream_low/index.m3u8
+
+#EXTINF:-1 tvg-id="rtvcityub.rs" tvg-name="RTV City Ub" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTV City Ub
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://109.72.57.12/hls/tvcityub.m3u8
+
+#EXTINF:-1 tvg-id="tvgmplus.rs" tvg-name="TV GM Plus" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV GM Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdn.maksnet.tv/
+https://6069699a9e3f3.streamlock.net/gmpluscable/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rtvvrnjackabanja.rs" tvg-name="RTV Vrnjacka Banja" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTV Vrnjacka Banja
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.rtvvrnjackabanja.com/rvb/index.m3u8
+
+#EXTINF:-1 tvg-id="ktv.rs" tvg-name="KTV Zrenjanin" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",KTV Zrenjanin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ktvuzivo.rs/memfs/aa5f6ceb-b0e8-46a1-becf-348613489702.m3u8
+
+#EXTINF:-1 tvg-id="rtvkragujevac.rs" tvg-name="RTV Kragujevac" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTV Kragujevac
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://6069699a9e3f3.streamlock.net/rtvkg/uzivo/chunklist_w1996912920.m3u8
+
+#EXTINF:-1 tvg-id="rtvassabac.rs" tvg-name="RTV AS Sabac" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTV AS Sabac
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://srv1.adriatelekom.com/TVAS/index.m3u8
+
+#EXTINF:-1 tvg-id="rtvnp.rs" tvg-name="RTV Novi Pazar" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTV Novi Pazar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://tv.rtvnp.rs/stream.m3u8
+
+#EXTINF:-1 tvg-id="z1.hr" tvg-name="Z1" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Z1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=14925&extension=ts
+https://stream.castr.com/677e935dd52df6c26274f169/live_07439d80cdd311ef8af99bfde92b2456/index.m3u8
+http://185.166.252.230/Z1/index.m3u8
+
+#EXTINF:-1 tvg-id="tvjadran.hr" tvg-name="TV Jadran" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV Jadran
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+
+#EXTINF:-1 tvg-id="kanalri.hr" tvg-name="Kanal Ri" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Kanal Ri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.kanal-ri.click/LiveApp/streams/B6HK3voDwNsRQoLm1124882102135504.m3u8
+
+#EXTINF:-1 tvg-id="slavonskatv.hr" tvg-name="Slavonska" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Slavonska
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.201.163.244:8080/hls/hdmi.m3u8
+
+#EXTINF:-1 tvg-id="SBtv.hr" tvg-name="SBtv" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",SBtv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.leveex.hr/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="diadora.hr" tvg-name="Diadora TV" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Diadora TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://diadoratv.stream/live/diadora/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvpirot.rs" tvg-name="TV Pirot" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV Pirot
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/chunklist_w1316212998.m3u8
+
+#EXTINF:-1 tvg-id="tvpikanal.rs" tvg-name="TV Pi Kanal" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV Pi Kanal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://stream.pikanal.rs/pikanal/pgm.m3u8
+
+#EXTINF:-1 tvg-id="tvnovapula.hr" tvg-name="TV Nova Pula" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV Nova Pula
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+
+#EXTINF:-1 tvg-id="otv.hr" tvg-name="OTV" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",OTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.166.252.230/OTV/index.m3u8
+
+#EXTINF:-1 tvg-id="rtvzenica.ba" tvg-name="RTV Zenica" tvg-country="BA" tvg-language="BOS" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTV Zenica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://stream.rtvze.ba/live/123/123.m3u8
+
+#EXTINF:-1 tvg-id="tropiktv.ba" tvg-name="Tropik TV" tvg-country="BA" tvg-language="BOS" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Tropik TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hls16/tropik_tv_1200.m3u8
+
+#EXTINF:-1 tvg-id="babytv.ba" tvg-name="Baby TV" tvg-country="BA" tvg-language="BOS" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Baby TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/baby_tv.m3u8
+
+#EXTINF:-1 tvg-id="libertastv.hr" tvg-name="Libertas TV" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Libertas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://stream.luci.xyz/hls/LTV.m3u8
+
+#EXTINF:-1 tvg-id="rtnk.me" tvg-name="RT Niksic" tvg-country="ME" tvg-language="CNR" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RT Niksic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://tv.rtv-niksic.me/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="rtbalkan.rs" tvg-name="RT Balkan" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RT Balkan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
+
+#EXTINF:-1 tvg-id="euronews.rs" tvg-name="Euronews Serbia" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Euronews Serbia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.euronews.rs/tv-uzivo
+https://media-euronews-portal.ott.solutions/euronews-rs/public_stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="informer.rs" tvg-name="Informer TV" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Informer TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://informer.rs/
+https://539745e629986.streamlock.net/informertv-secure/web/playlist.m3u8
+https://edge-rs-05.maksnet.tv/informertv-secure/web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="newsmaxbalkans.rs" tvg-name="Newsmax Balkans" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Newsmax Balkans
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://newsmaxadria.mts-si.tv/newsmaxadria/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="n1.rs" tvg-name="N1 RS" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",N1 RS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://n1-bg-ku-h3-2.umn.cdn.united.cloud/stream?i=etf3tIZHnpxKX8txfJ25dw&a=JV6SCov1DaCoD4aUxQd25sD-hRlaUQyDY5g1YNV0qv713IrhtUZWpYWuIslxvaiib-HbxdeA1VjxfNt6sgb0Nw8uhpimKyEJdQEKj8uMuYjkfCa8XXIr5RR1iGYI24NjAYF9Tx2H1FIj8V-4UpJDFPJP3VAOTSGASesDue54PyrPwXJEY6bNRnOdH9D1mLkFa9hvKUt9KEXXPoY0SAGSGYnGGn5Yu9HVbCjbmhEjcavBcHKuLtPmLBy7owX4PtQm&sp=n1info&u=n1info&session=0f91bbb0-4462-06f1-b06d-55694accd408&player=m3u8
+
+#EXTINF:-1 tvg-id="n1.ba" tvg-name="N1 BiH" tvg-country="BA" tvg-language="BOS" tvg-logo="" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",N1 BiH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://best-str.umn.cdn.united.cloud/stream?i=Vn9q8W7mVOG4y6Ui1eK2vA&a=Th9Xz0Yo--RdSNrDXdye641ofxX9aEbKFid5d23nXpC5_LHUWgxQ1Twupxc5uAtyeMMOyLS6L2dqTbdYBmEj-w3Ja_97A3Xr-xVR4Iv74nSxGwoBbRiA2BEyNjqLMHc9V6mKs_iBq6mkAjHWJiMX-EpB7bAvOfAnq4JOxUMcab_w70X6pFrcNpB8kLqmqQmT&sp=n1info&u=n1info&session=06c9009a-f539-2af4-4d02-a754b8b5221d&player=m3u8
+
+#EXTINF:-1 tvg-id="n1.hr" tvg-name="N1 HR" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",N1 HR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://n1-bg-ku-h3-2.umn.cdn.united.cloud/stream?i=aRzPw9q4KOPF3ThIvzGpkw&a=FawmVICC5jAMy4yIZjCx1bXic34dmWE5LAemcTBv8qK8i-LFIKA_aMY0Gohd70oLuekRDzLr_mEE4GR6EGCrpceW-TM6WCZZdBRvsbeSHy2z0vhWTDUxNsJ3Dck7yMSsdunsu-FH90XHNEhFWTaUelFggiS8shWwkNaI1jx9ASgoKFN5sbNPqWAsrRggqFUV6_GF4pnXHSKq1VeiqEcpiWC-q8u6KimXqpJmCyAmqcpJEnxYHmGpSr25C1Qot-x4&sp=n1info&u=n1info&session=e9b84f0e-2361-6872-e9ef-f2936943ee74&player=m3u8
+
+#EXTINF:-1 tvg-id="starchannel.tv" tvg-name="STAR Channel" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",STAR Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hls18/star_channel_1200.m3u8
+
+#EXTINF:-1 tvg-id="starmovies.tv" tvg-name="STAR Movies" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",STAR Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hls18/star_movies_1200.m3u8
+http://185.166.252.230/StarMovies/index.m3u8
+
+#EXTINF:-1 tvg-id="starcrime.tv" tvg-name="STAR Crime" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",STAR Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hls18/star_crime_1200.m3u8
+http://23.88.66.93/Fox_Crime/index.m3u8
+
+#EXTINF:-1 tvg-id="starlife.tv" tvg-name="STAR Life" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",STAR Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hls18/star_life_1200.m3u8
+
+#EXTINF:-1 tvg-id="24kitchen.tv" tvg-name="24 Kitchen" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Dokumentation" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",24 Kitchen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/24_kitchen.m3u8
+
+#EXTINF:-1 tvg-id="nationalgeographic.tv" tvg-name="National Geographic" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Dokumentation" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/national_geographic.m3u8
+
+#EXTINF:-1 tvg-id="natgeowild.tv" tvg-name="NAT GEO Wild" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Dokumentation" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",NAT GEO Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/nat_geo_wild.m3u8
+
+#EXTINF:-1 tvg-id="loviribolov.hr" tvg-name="Lov i ribolov" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Dokumentation" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Lov i ribolov
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.166.252.230/LoviRibolov/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo1.hr" tvg-name="HBO 1" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HBO 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.166.252.230/Hbo1/index.m3u8
+http://23.88.66.93/HBO/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo2.hr" tvg-name="HBO 2" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HBO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.166.252.230/Hbo2/index.m3u8
+http://23.88.66.93/HBO_2/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo3.hr" tvg-name="HBO 3" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HBO 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.166.252.230/Hbo3/index.m3u8
+http://23.88.66.93/HBO_3/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax1.hr" tvg-name="Cinemax 1" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Cinemax 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.166.252.230/Cinemax1/index.m3u8
+http://23.88.66.93/Cinemax/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax2.hr" tvg-name="Cinemax 2" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Cinemax 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.166.252.230/Cinemax2/index.m3u8
+http://23.88.66.93/Cinemax_2/index.m3u8
+
+#EXTINF:-1 tvg-id="m1gold.hr" tvg-name="M1 Gold" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",M1 Gold
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.166.252.230/M1Gold/index.m3u8
+
+#EXTINF:-1 tvg-id="filmboxextra.hr" tvg-name="Filmbox Extra" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Filmbox Extra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hls7/filmbox_extra.m3u8
+
+#EXTINF:-1 tvg-id="filmboxpremium.hr" tvg-name="Filmbox Premium" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Filmbox Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hls6/filmbox_premium.m3u8
+http://185.166.252.230/FilmBoxPremium/index.m3u8
+
+#EXTINF:-1 tvg-id="filmboxstars.hr" tvg-name="Filmbox Stars" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Filmbox Stars
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8
+
+#EXTINF:-1 tvg-id="orf1.at" tvg-name="ORF 1" tvg-country="AT" tvg-language="DEU" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ORF 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://test04.mdn.ors.at/orf/orf1/qxb/manifest.m3u8
+
+#EXTINF:-1 tvg-id="orf2.at" tvg-name="ORF 2" tvg-country="AT" tvg-language="DEU" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ORF 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://test02.mdn.ors.at/orf/orf2/qxa/manifest.m3u8
+
+#EXTINF:-1 tvg-id="orf3.at" tvg-name="ORF 3" tvg-country="AT" tvg-language="DEU" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ORF 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+
+#EXTINF:-1 tvg-id="orfsportplus.at" tvg-name="ORF Sport+" tvg-country="AT" tvg-language="DEU" tvg-logo="" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ORF Sport+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8
+
+#EXTINF:-1 tvg-id="orfkids.at" tvg-name="ORF Kids" tvg-country="AT" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ORF Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://test02.mdn.ors.at/orf/orfk/qxa/manifest.m3u8
+
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",3Sat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd
+
+#EXTINF:-1 tvg-id="servustv.at" tvg-name="ServusTV" tvg-country="AT" tvg-language="DEU" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ServusTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
+
+#EXTINF:-1 tvg-id="atv.at" tvg-name="ATV" tvg-country="AT" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ATV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://strm.hdtvizlecanli.com/live/atv.m3u8
+
+#EXTINF:-1 tvg-id="atv2.at" tvg-name="ATV2" tvg-country="AT" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ATV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
+
+#EXTINF:-1 tvg-id="Puls24.at" tvg-name="Puls 24" tvg-country="AT" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Puls 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1284&extension=ts
+
+#EXTINF:-1 tvg-id="prosieben.de" tvg-name="ProSieben" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/72cqcuv.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ProSieben
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/prosieben.m3u8
+
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="ProSieben Maxx" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ProSieben Maxx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1247&extension=ts
+
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="ProSieben Fun" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ProSieben Fun
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1248&extension=ts
+
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="Sat.1" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Sat.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/sat1.m3u8
+
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="Sat.1 Gold" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Sat.1 Gold
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1252&extension=ts
+
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="Sat.1 Emotions" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Sat.1 Emotions
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1254&extension=ts
+
+#EXTINF:-1 tvg-id="kabeleins.de" tvg-name="Kabel Eins" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Kabel Eins
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1258&extension=ts
+
+#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="Kabel Eins Doku" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Dokumentation" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Kabel Eins Doku
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1262&extension=ts
+
+#EXTINF:-1 tvg-id="kabeleinsclassics.de" tvg-name="Kabel Eins Classics" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Kabel Eins Classics
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1260&extension=ts
+
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Sixx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1277&extension=ts
+
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ZDF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1236&extension=ts
+
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="ZDFneo" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ZDFneo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
+
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="ZDFinfo" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ZDFinfo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
+
+#EXTINF:-1 tvg-id="wdr.de" tvg-name="WDR" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",WDR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1289&extension=ts
+
+#EXTINF:-1 tvg-id="ard.de" tvg-name="ARD" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ARD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1234&extension=ts
+
+#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",VOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
+
+#EXTINF:-1 tvg-id="voxup.de" tvg-name="VOXup" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",VOXup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1257&extension=ts
+
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL (DE)" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTL (DE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://viamotionhsi.netplus.ch/
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
+
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL2 (DE)" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTL 2 (DE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://viamotionhsi.netplus.ch/
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
+
+#EXTINF:-1 tvg-id="superrtl.de" tvg-name="Super RTL" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Super RTL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://viamotionhsi.netplus.ch/
+https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
+
+#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="RTL Crime (DE)" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTL Crime (DE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1250&extension=ts
+
+#EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="RTL Passion (DE)" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTL Passion (DE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1271&extension=ts
+
+#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="RTL Living (DE)" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTL Living (DE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1273&extension=ts
+
+#EXTINF:-1 tvg-id="rtlup.de" tvg-name="RTL Up (DE)" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTL Up (DE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1275&extension=ts
+
+#EXTINF:-1 tvg-id="nitro.de" tvg-name="Nitro" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Nitro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
+
+#EXTINF:-1 tvg-id="universaltv.de" tvg-name="Universal TV DE" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Universal TV DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NLEGXDQYDUCYB4/6094/index.m3u8
+
+#EXTINF:-1 tvg-id="warnertvserie.de" tvg-name="Warner TV Serie DE" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Warner TV Serie DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NLEGXDQYDUCYB4/6090/index.m3u8
+
+#EXTINF:-1 tvg-id="warnertvfilm.de" tvg-name="Warner TV Film DE" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Warner TV Film DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NLEGXDQYDUCYB4/6111/index.m3u8
+
+#EXTINF:-1 tvg-id="universaltv.de" tvg-name="Universal TV FHD DE" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Universal TV DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NLEGXDQYDUCYB4/6094/index.m3u8
+
+#EXTINF:-1 tvg-id="warnertvserie.de" tvg-name="Warner TV Serie HD DE" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Warner TV Serie DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NLEGXDQYDUCYB4/6090/index.m3u8
+
+#EXTINF:-1 tvg-id="warnertvfilm.de" tvg-name="Warner TV Film DE" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Warner TV Film DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NLEGXDQYDUCYB4/6111/index.m3u8
+
+#EXTINF:-1 tvg-id="comedycentral.de" tvg-name="Comedy Central" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Comedy Central
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://viamotionhsi.netplus.ch/
+https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-dash/comedycentralnick.mpd
+
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="Tele 5" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Tele 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://viamotionhsi.netplus.ch/
+https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
+
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney Channel" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://viamotionhsi.netplus.ch/
+https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-dash/disneychannelde.mpd
+
+#EXTINF:-1 tvg-id="arte.de" tvg-name="Arte (DE)" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arte (DE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1280&extension=ts
+
+#EXTINF:-1 tvg-id="dmax.de" tvg-name="DMAX" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",DMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://viamotionhsi.netplus.ch/
+https://viamotionhsi.netplus.ch/live/eds/dmax/browser-dash/dmax.mpd
+
+#EXTINF:-1 tvg-id="tlc.de" tvg-name="TLC" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://strm.hdtvizlecanli.com/live/tlc.m3u8
+
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="ntv" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ntv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://strm.hdtvizlecanli.com/live/ntv.m3u8
+
+#EXTINF:-1 tvg-id="n24.de" tvg-name="N24" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",N24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://strm.hdtvizlecanli.com/live/n24.m3u8
+
+#EXTINF:-1 tvg-id="srf1.ch" tvg-name="SRF 1" tvg-country="CH" tvg-language="DEU" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",SRF 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://viamotionhsi.netplus.ch/
+https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
+
+#EXTINF:-1 tvg-id="srf2.ch" tvg-name="SRF zwei" tvg-country="CH" tvg-language="DEU" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",SRF zwei
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://viamotionhsi.netplus.ch/
+https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
+
+#EXTINF:-1 tvg-id="srfinfo.ch" tvg-name="SRF info" tvg-country="CH" tvg-language="DEU" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",SRF info
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://viamotionhsi.netplus.ch/
+https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
+
+#EXTINF:-1 tvg-id="rt.de" tvg-name="RT (DE)" tvg-country="DE" tvg-language="DEU" tvg-logo="" grouptitle="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RT (DE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
+
+#EXTINF:-1 tvg-id="kronetv.at" tvg-name="Krone TV" tvg-country="AT" tvg-language="DEU" tvg-logo="" group-title="Community" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Krone TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-avc1_2500000=10002-mp4a_128000_deu=20000.m3u8
+
+#EXTINF:-1 tvg-id="weltderwunder.de" tvg-name="Welt der Wunder" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Dokumentation" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Welt der Wunder
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dokusat.de" tvg-name="Dokusat" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Dokumentation" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Dokusat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="welt.de" tvg-name="WELT" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Dokumentation" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",WELT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://welt.personalstream.tv/v1/master.m3u8
+
+#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="Deutsche Welle" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Deutsche Welle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="oe24tv.at" tvg-name="OE24 TV" tvg-country="AT" tvg-language="DEU" tvg-logo="" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",OE24 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-nodrm.m3u8
+
+#EXTINF:-1 tvg-id="oktotv.at" tvg-name="Okto" tvg-country="AT" tvg-language="DEU" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Okto
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="w24.at" tvg-name="W24 TV" tvg-country="AT" tvg-language="DEU" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",W24 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="redbulltv.at" tvg-name="Red Bull TV" tvg-country="AT" tvg-language="DEU" tvg-logo="" group-title="Sport" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Red Bull TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="bildtv.de" tvg-name="Bild TV" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Dokumentationen" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Bild TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://bild.personalstream.tv/v1/master.m3u8
+
+#EXTINF:-1 tvg-id="autobildtv.de" tvg-name="Auto Bild TV" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Sport" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Auto Bild TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
+
+#EXTINF:-1 tvg-id="idjtv.rs" tvg-name="IDJTV" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",IDJTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd
+
+#EXTINF:-1 tvg-id="dmsat.rs" tvg-name="DM Sat" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",DM Sat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://84.54.186.107:8000/play/a02l
+
+#EXTINF:-1 tvg-id="tvdugaplus.com" tvg-name="TV Duga plus" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV Duga plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://135.125.238.20:8080/memfs/6c06b323-a7db-443a-a75f-b745da6ca308.m3u8
+
+#EXTINF:-1 tvg-id="bnmusic" tvg-name="BN Music" tvg-country="BA" tvg-language="BOS" tvg-logo="" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",BN Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://5.57.74.130:8000/play/a01m/index.m3u8
+
+#EXTINF:-1 tvg-id="cmctv.hr" tvg-name="CMC TV" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",CMC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+
+#EXTINF:-1 tvg-id="jugoton.hr" tvg-name="Jugoton" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Jugoton TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://stream.cmctv.hr:49998/jugoton/live.m3u8
+
+#EXTINF:-1 tvg-id="klapeitamburetv.hr" tvg-name="Klape i Tambure TV" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Klape i Tambure TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://stream.cmctv.hr:49998/kit/live.m3u8
+
+#EXTINF:-1 tvg-id="tvkcn2.net" tvg-name="K::CN 2" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",K::CN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://5.57.74.130:8000/play/a03r/index.m3u8
+
+#EXTINF:-1 tvg-id="tvkcn3.net" tvg-name="K::CN 3" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",K::CN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://78.128.125.60:9981/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-id="vibetv.rs" tvg-name="Vibe TV" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Vibe TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://77.46.147.128:1935/vibetv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="toptv.rs" tvg-name="Top TV" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Top TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://74.208.199.212:8081/TopTV/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="tdiradio.rs" tvg-name="TDI Radio" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TDI Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/0.m3u8
+
+#EXTINF:-1 tvg-id="radiololatv.rs" tvg-name="Radio Lola" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Radio Lola
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
+
+#EXTINF:-1 tvg-id="karolinatv.rs" tvg-name="Karolina TV" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Karolina TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
+
+#EXTINF:-1 tvg-id="hitfm.rs" tvg-name="Radio HIT FM" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Radio HIT FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
+
+#EXTINF:-1 tvg-id="radiostv.rs" tvg-name="Radio S TV" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Radio S TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="extrafm.hr" tvg-name="Extra FM" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Extra FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
+
+#EXTINF:-1 tvg-id="bravotv.hr" tvg-name="bravo! TV" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",bravo! TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8
+
+#EXTINF:-1 tvg-id="kronehittv.at" tvg-name="Kronehit TV" tvg-country="AT" tvg-language="DEU" tvg-logo="" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Kronehit TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:-1 tvg-id="deephousedistrict.nl" tvg-name="Deep House District" tvg-country="NL" tvg-language="ENG" tvg-logo="" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Deep House District
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+
+#EXTINF:-1 tvg-id="dancetv.nl" tvg-name="Dance TV" tvg-country="NL" tvg-language="ENG" tvg-logo="" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Dance TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+
+#EXTINF:-1 tvg-id="deluxemusic.de" tvg-name="DELUXE MUSIC" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",DELUXE MUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 tvg-id="deluxemusicrap.de" tvg-country="DE" tvg-language="DEU" tvg-name="DELUXE MUSIC RAP" tvg-logo="" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",DELUXE MUSIC RAP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+
+#EXTINF:-1 tvg-id="soskanalplus.rs" tvg-name="SOS Kanal Plus" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",SOS Kanal Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="arenasport1.rs" tvg-name="Arena Sport 1" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://78.108.251.7/Arena_Sport_1/index.m3u8
+
+#EXTINF:-1 tvg-id="arenasport2.rs" tvg-name="Arena Sport 2" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://78.108.251.7/Arena_Sport_2/index.m3u8
+
+#EXTINF:-1 tvg-id="arenasport3.rs" tvg-name="Arena Sport 3" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://78.108.251.7/Arena_Sport_3/index.m3u8
+
+#EXTINF:-1 tvg-id="arenasport4.rs" tvg-name="Arena Sport 4" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://78.108.251.7/Arena_Sport_4/index.m3u8
+
+#EXTINF:-1 tvg-id="arenasport5.rs" tvg-name="Arena Sport 5" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://78.108.251.7/Arena_Sport_5/index.m3u8
+
+#EXTINF:-1 tvg-id="arenasport6.rs" tvg-name="Arena Sport 6" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.166.252.230/Arena6/index.m3u8
+
+#EXTINF:-1 tvg-id="arenasport7.rs" tvg-name="Arena Sport 7" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.166.252.230/Arena7/index.m3u8
+
+#EXTINF:-1 tvg-id="arenasport8.rs" tvg-name="Arena Sport 8" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.166.252.230/Arena8/index.m3u8
+
+#EXTINF:-1 tvg-id="arenasport9.rs" tvg-name="Arena Sport 9" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.166.252.230/Arena9/index.m3u8
+
+#EXTINF:-1 tvg-id="arenasport10.rs" tvg-name="Arena Sport 10" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.166.252.230/Arena10/index.m3u8
+
+#EXTINF:-1 tvg-id="maxsport1.hr" tvg-name="Max Sport 1" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Max Sport 1 (HR)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.166.252.230/MaxSport1/index.m3u8
+
+#EXTINF:-1 tvg-id="maxsport2.hr" tvg-name="Max Sport 2" tvg-country="HR" tvg-language="HRV" tvg-logo="" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Max Sport 2 (HR)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.166.252.230/MaxSport2/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1 (DE)" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Eurosport1 (DE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://viamotionhsi.netplus.ch/
+https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
+
+#EXTINF:-1 tvg-id="sport1" tvg-name="Sport 1 (DE)" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Sport1 (DE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://viamotionhsi.netplus.ch/
+https://viamotionhsi.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
+
+#EXTINF:-1 radio="true" tvg-id="NaxiRadio" tvg-name="Naxi Radio" group-title="RS" tvg-logo="https://i.imgur.com/iy70yHc.png",Naxi Radio
+http://naxi128.streaming.rs:9150/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiCafeRadio" tvg-name="Naxi Cafe Radio" group-title="RS" tvg-logo="https://i.imgur.com/ODrrSdL.png",Naxi Cafe Radio
+http://naxidigital-cafe128.streaming.rs:8020/
+
+#EXTINF:-1 radio="true" tvg-id="Naxi80eRadio" tvg-name="Naxi 80e Radio" group-title="RS" tvg-logo="https://i.imgur.com/BsWT6q5.png",Naxi 80e Radio
+http://naxidigital-80s128.streaming.rs:8040/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiDanceRadio" tvg-name="Naxi Dance Radio" group-title="RS" tvg-logo="https://i.imgur.com/dAwETFi.png",Naxi Dance Radio
+http://naxidigital-dance128.streaming.rs:8110/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiLoveRadio" tvg-name="Naxi Love Radio" group-title="RS" tvg-logo="https://i.imgur.com/Or8ukSO.png",Naxi Love Radio
+http://naxidigital-love128.streaming.rs:8100/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiEvergreenRadio" tvg-name="Naxi Evergreen Radio" group-title="RS" tvg-logo="https://i.imgur.com/Td12CA4.png",Naxi Evergreen Radio
+http://naxidigital-evergreen128.streaming.rs:8010/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiEX-YURockRadio" tvg-name="Naxi EX-YU Rock Radio" group-title="RS" tvg-logo="https://i.imgur.com/z4wqDKH.png",Naxi EX-YU Rock Radio
+http://naxidigital-exyurock128.streaming.rs:8400/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiRockRadio" tvg-name="Naxi Rock Radio" group-title="RS" tvg-logo="https://i.imgur.com/gT31mk3.png",Naxi Rock Radio
+http://naxidigital-rock128.streaming.rs:8180/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiMixRadio" tvg-name="Naxi Mix Radio" group-title="RS" tvg-logo="https://i.imgur.com/In6gBc4.png",Naxi Mix Radio
+http://naxidigital-mix128.streaming.rs:8220/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiBoemRadio" tvg-name="Naxi Boem Radio" group-title="RS" tvg-logo="https://i.imgur.com/4guwG4m.png",Naxi Boem Radio
+http://naxidigital-boem128.streaming.rs:8160/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiFreshRadio" tvg-name="Naxi Fresh Radio" group-title="RS" tvg-logo="https://i.imgur.com/fH8Wzxv.png",Naxi Fresh Radio
+http://naxidigital-fresh128.streaming.rs:8210/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiLatinoRadio" tvg-name="Naxi Latino Radio" group-title="RS" tvg-logo="https://i.imgur.com/fFOtLCO.png",Naxi Latino Radio
+http://naxidigital-latino128.streaming.rs:8230/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiLoungeRadio" tvg-name="Naxi Lounge Radio" group-title="RS" tvg-logo="https://i.imgur.com/bjy1cy0.png",Naxi Lounge Radio
+http://naxidigital-lounge128.streaming.rs:8250/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiHouseRadio" tvg-name="Naxi House Radio" group-title="RS" tvg-logo="https://i.imgur.com/s9evn7O.png",Naxi House Radio
+http://naxidigital-house128.streaming.rs:8000/
+
+#EXTINF:-1 radio="true" tvg-id="Naxi90eRadio" tvg-name="Naxi 90e Radio" group-title="RS" tvg-logo="https://i.imgur.com/o14xHyA.png",Naxi 90e Radio
+http://naxidigital-90s128.streaming.rs:8280/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiFitnessRadio" tvg-name="Naxi Fitness Radio" group-title="RS" tvg-logo="https://i.imgur.com/6vT4oIk.png",Naxi Fitness Radio
+http://naxidigital-fitness128.streaming.rs:8290/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiEx-YuRadio" tvg-name="Naxi EX-YU Radio" group-title="RS" tvg-logo="https://i.imgur.com/6R4ccqI.png",Naxi EX-YU Radio
+http://naxidigital-exyu128.streaming.rs:8240/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiChillRadio" tvg-name="Naxi Chill Radio" group-title="RS" tvg-logo="https://i.imgur.com/raTzrLH.png",Naxi Chill Radio
+http://naxidigital-chill128.streaming.rs:8410/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiSlagerRadio" tvg-name="Naxi Slager Radio" group-title="RS" tvg-logo="https://i.imgur.com/B7I4Yex.png",Naxi Slager Radio
+http://naxidigital-slager128.streaming.rs:8370/
+
+#EXTINF:-1 radio="true" tvg-id="Naxi70eRadio" tvg-name="Naxi 70e Radio" group-title="RS" tvg-logo="https://i.imgur.com/maxZaQw.png",Naxi 70e Radio
+http://naxidigital-70s128.streaming.rs:8380/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiGoldRadio" tvg-name="Naxi Gold Radio" group-title="RS" tvg-logo="https://i.imgur.com/wwEn4BG.png",Naxi Gold Radio
+http://naxidigital-gold128.streaming.rs:8060/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiFunkRadio" tvg-name="Naxi Funk Radio" group-title="RS" tvg-logo="https://i.imgur.com/FLS8qss.png",Naxi Funk Radio
+http://naxidigital-funk128.streaming.rs:8360/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiReggaeRadio" tvg-name="Naxi Reggae Radio" group-title="RS" tvg-logo="https://i.imgur.com/mAiM5Pw.png",Naxi Reggae Radio
+http://naxidigital-reggae128.streaming.rs:8420/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiDiscoRadio" tvg-name="Naxi Disco Radio" group-title="RS" tvg-logo="https://i.imgur.com/KHWX2HF.png",Naxi Disco Radio
+http://naxidigital-disco128.streaming.rs:8350/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiAdoreRadio" tvg-name="Naxi Adore Radio" group-title="RS" tvg-logo="https://i.imgur.com/7fDzIsm.png",Naxi Adore Radio
+http://naxidigital-adore128.streaming.rs:8330/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiMillenniumRadio" tvg-name="Naxi Millennium Radio" group-title="RS" tvg-logo="https://i.imgur.com/ofPzbyZ.png",Naxi Millennium Radio
+http://naxidigital-millennium128.streaming.rs:8340/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiBluesRockRadio" tvg-name="Naxi Blues Rock Radio" group-title="RS" tvg-logo="https://i.imgur.com/cSTscmQ.png",Naxi Blues Rock Radio
+http://naxidigital-blues128.streaming.rs:8310/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiChillwaveRadio" tvg-name="Naxi Chillwave Radio" group-title="RS" tvg-logo="https://i.imgur.com/f1rAxmV.png",Naxi Chillwave Radio
+http://naxidigital-chillwave128.streaming.rs:8320/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiClubbingRadio" tvg-name="Naxi Clubbing Radio" group-title="RS" tvg-logo="https://i.imgur.com/w7wfnrL.png",Naxi Clubbing Radio
+http://naxidigital-gold128.streaming.rs:8090/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiJazzRadio" tvg-name="Naxi Jazz Radio" group-title="RS" tvg-logo="https://i.imgur.com/HIASbpP.png",Naxi Jazz Radio
+http://naxidigital-jazz128.streaming.rs:8170/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiClassicRadio" tvg-name="Naxi Classic Radio" group-title="RS" tvg-logo="https://i.imgur.com/A2JKX2s.png",Naxi Classic Radio
+http://naxidigital-classic128.streaming.rs:8030/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiInstrumentalRadio" tvg-name="Naxi Instrumental Radio" group-title="RS" tvg-logo="https://i.imgur.com/qQ4J623.png",Naxi Instrumental Radio
+http://naxidigital-instrumental128.streaming.rs:8430/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiRnBRadio" tvg-name="Naxi RnB Radio" group-title="RS" tvg-logo="https://i.imgur.com/PLgn15I.png",Naxi RnB Radio
+http://naxidigital-rnb128.streaming.rs:8120/
+
+#EXTINF:-1 radio="true" tvg-id="radiobn" tvg-name="Radio BN" group-title="BiH" tvg-logo="https://i.imgur.com/bNz9KNF.png",Radio BN
+http://stream.rtvbn.com:8522/.mp3
+
+#EXTINF:-1 radio="true" tvg-id="ARadio" tvg-name="A Radio" group-title="BiH" tvg-logo="https://i.imgur.com/abuSRa4.png",A Radio
+https://aradiostream.atvbl.com/live
+
+#EXTINF:-1 radio="true" tvg-id="RadioLaktasi" tvg-name="Radio Laktasi" group-title="BiH" tvg-logo="https://i.imgur.com/kKAXZdj.png",Radio Laktasi
+https://radio.laktasiturizam.org/live
+
+#EXTINF:-1 radio="true" tvg-id="RadioGradiska" tvg-name="Radio Gradiska" group-title="BiH" tvg-logo="https://i.imgur.com/DtNCTvn.png",Radio Gradiska
+https://nl1.streamingpulse.com/ssl/RadioGradiska
+
+#EXTINF:-1 radio="true" tvg-id="radiocarsijasarajevo" tvg-name="Radio Carsija Sarajevo" group-title="BiH" tvg-logo="https://i.imgur.com/nVi2hhV.png",Radio Carsija Sarajevo
+https://cast2.name.ba/proxy/nedim/
+
+#EXTINF:-1 radio="true" tvg-id="antenasarajevo" tvg-name="Antena Sarajevo" group-title="BiH" tvg-logo="https://i.imgur.com/a98ITxy.png",Antena Sarajevo
+https://stream.rsgmedia.ba/listen/antena_sarajevo/radio.mp3
+
+#EXTINF:-1 radio="true" tvg-id="radiostarigrad Sarajevo" tvg-name="Radio Stari Grad Sarajevo" group-title="BiH" tvg-logo="https://i.imgur.com/GOCfU1E.png",Radio Stari Grad Sarajevo
+https://stream.rsgmedia.ba/listen/radio_stari_grad/radio.mp3
+
+#EXTINF:-1 radio="true" tvg-id="RadioKozara" tvg-name="Radio Kozara" group-title="BiH" tvg-logo="https://i.imgur.com/vmWAaPP.png",Radio Kozara
+http://51.254.61.148:11111
+
+#EXTINF:-1 radio="true" tvg-id="BobarRadio" tvg-name="Bobar Radio" group-title="BiH" tvg-logo="https://i.imgur.com/cY3JBEb.png",Bobar Radio
+https://stream.radios.rs:9082/stream
+
+#EXTINF:-1 radio="true" tvg-id="NesRadio" tvg-name="Nes Radio" group-title="BiH" tvg-logo="https://i.imgur.com/DUPBtQK.png",Nes Radio
+http://188.40.62.20:8070/
+
+#EXTINF:-1 radio="true" tvg-id="KrajiskiRadioBeska" tvg-name="Krajiski Radio Beska" group-title="RS" tvg-logo="https://i.imgur.com/knUtEXY.png",Krajiski Radio Beska
+https://micorsk.radioca.st/stream
+
+#EXTINF:-1 radio="true" tvg-id="KrajiskiRadioDubica" tvg-name="Krajiski Radio Dubica" group-title="BiH" tvg-logo="https://i.imgur.com/bLx6biO.png",Krajiski Radio Dubica
+http://shnpdecct1.dihostnet.com:8039
+
+#EXTINF:-1 radio="true" tvg-id="PakaoRadio" tvg-name="Pakao Radio" group-title="BiH" tvg-logo="https://i.imgur.com/jLAvRHC.png",Pakao Radio
+https://securestream.pakaoradio.net/live
+
+#EXTINF:-1 radio="true" tvg-id="RadioDzunglaDobojProgramI" tvg-name="Radio Dzungla Doboj Program I" group-title="BiH" tvg-logo="https://i.imgur.com/ffxaidD.png",Radio Dzungla Doboj Program I
+https://cast2.name.ba/proxy/dzungla/stream
+
+#EXTINF:-1 radio="true" tvg-id="RadioDzunglaDobojProgramII" tvg-name="Radio Dzungla Doboj Program II" group-title="BiH" tvg-logo="https://i.imgur.com/ffxaidD.png",Radio Dzungla Doboj Program II
+https://cast2.name.ba/proxy/dzungla2/stream
+
+#EXTINF:-1 radio="true" tvg-id="RadioDzunglaDobojProgramIII" tvg-name="Radio Dzungla Doboj Program III" group-title="BiH" tvg-logo="https://i.imgur.com/ffxaidD.png",Radio Dzungla Doboj Program III
+https://cast2.name.ba/proxy/dzungla3/stream
+
+#EXTINF:-1 radio="true" tvg-id="bumbumradio" tvg-name="Bum Bum Radio" group-title="RS" tvg-logo="https://i.imgur.com/RI1DIOS.png",Bum Bum Radio
+https://bumbum.nlnet.rs:8443/bumbum
+
+#EXTINF:-1 radio="true" tvg-id="PinkRadio" tvg-name="Pink Radio" group-title="RS" tvg-logo="https://i.imgur.com/aI8WADY.png",Pink Radio
+https://edge9.pink.rs/pinkstream
+
+#EXTINF:-1 radio="true" tvg-id="coolradio" tvg-name="OK Radio" group-title="RS" tvg-logo="https://i.imgur.com/XD5rE4S.png",Cool Radio
+http://live.coolradio.rs:80/cool192
+
+#EXTINF:-1 radio="true" tvg-id="mojradio" tvg-name="Moj Radio" group-title="RS" tvg-logo="https://i.imgur.com/8KTa5A6.png",Moj Radio
+https://eu4.fastcast4u.com/proxy/svidakov
+
+#EXTINF:-1 radio="true" tvg-id="RadioNostalgija1052" tvg-name="Radio Nostalgija 105.2" group-title="RS" tvg-logo="https://i.imgur.com/KNYuKxN.png",Radio Nostalgija 105.2
+http://nostalgie128.streaming.rs:9250/
+
+#EXTINF:-1 radio="true" tvg-id="TopFMBelgrade1068" tvg-name="Top FM Belgrade 106.8" group-title="RS" tvg-logo="https://i.imgur.com/o5zPEeE.png",Top FM Belgrade 106.8
+http://topfm128.streaming.rs:9280/
+
+#EXTINF:-1 radio="true" tvg-id="RadioTri" tvg-name="Radio Tri Beograd" group-title="RS" tvg-logo="https://i.imgur.com/SGEptvn.png",Radio Tri Beograd
+http://radiotri-128.streaming.rs:9300/
+
+#EXTINF:-1 radio="true" tvg-id="RadioRitamSrca" tvg-name="Radio Ritam Srca" group-title="RS" tvg-logo="https://i.imgur.com/39G0SCr.png",Radio Ritam Srca
+https://s4.radio.co/s0f65dad2d/listen
+
+#EXTINF:-1 radio="true" tvg-id="RadioRitamSrca" tvg-name="Radio Ritam Srca Rock & Pop" group-title="RS" tvg-logo="https://i.imgur.com/39G0SCr.png",Radio Ritam Srca Rock & Pop
+https://s2.radio.co/s80eb57671/listen
+
+#EXTINF:-1 radio="true" tvg-id="krunaradio" tvg-name="Kruna Radio" group-title="RS" tvg-logo="https://i.imgur.com/A0LSn8N.png",Kruna Radio
+https://kruna-bobanex.radioca.st/stream?type=http&nocache=170
+
+#EXTINF:-1 radio="true" tvg-id="okradio" tvg-name="OK Radio" group-title="RS" tvg-logo="https://i.imgur.com/cREBr5g.png",OK Radio
+https://sslstream.okradio.net/?type=http\u0026nocache=8804
+
+#EXTINF:-1 radio="true" tvg-id="redradio" tvg-name="Red Radio" group-title="RS" tvg-logo="https://i.imgur.com/SEcEHvt.png",Red Radio
+https://stream.redradio.rs/
+
+#EXTINF:-1 radio="true" tvg-id="Playradio" tvg-name="Play Radio" group-title="RS" tvg-logo="https://i.imgur.com/Y6AZAGK.png",Play Radio
+http://stream.b92.net:7999/radio-b92.mp3
+
+#EXTINF:-1 radio="true" tvg-id="radiolola" tvg-name="Radio Lola" group-title="RS" tvg-logo="https://i.imgur.com/B5zZ7DQ.png",Radio Lola
+https://streaming.karolina.rs/radiolola.mp3
+
+#EXTINF:-1 radio="true" tvg-id="radiohitfmbeograd" tvg-name="Radio Hit FM Beograd" group-title="RS" tvg-logo="https://i.imgur.com/o1RGpaI.png",Radio Hit FM Beograd
+https://streaming.hitfm.rs/hit.mp3
+
+#EXTINF:-1 radio="true" tvg-id="radiojat" tvg-name="Radio JAT" group-title="RS" tvg-logo="https://i.imgur.com/nsNWIev.png",Radio JAT
+https://streaming.tdiradio.com/radiojat.mp3
+
+#EXTINF:-1 radio="true" tvg-id="radiobeograd1" tvg-name="Radio Beograd 1" group-title="RS" tvg-logo="https://i.imgur.com/QCkbHXh.png",Radio Beograd 1
+https://rtsradio-live.morescreens.com/RTS_2_001/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="radiobeograd2" tvg-name="Radio Beograd 2" group-title="RS" tvg-logo="https://i.imgur.com/2yszS1y.png",Radio Beograd 2
+https://rtsradio-live.morescreens.com/RTS_2_002/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="radiobeograd3" tvg-name="Radio Beograd 3" group-title="RS" tvg-logo="https://i.imgur.com/I0i2icP.png",Radio Beograd 3
+https://rtsradio-live.morescreens.com/RTS_2_003/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="radiobeograd202" tvg-name="Radio Beograd 202" group-title="RS" tvg-logo="https://i.imgur.com/CM9Ig8G.png",Radio Beograd 202
+https://rtsradio-live.morescreens.com/RTS_2_004/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="RadioBig1" tvg-name="Radio Big1" group-title="BiH" tvg-logo="https://i.imgur.com/3u6z4Lc.png",Radio Big1
+http://big1.bigportal.ba:8100/big1
+
+#EXTINF:-1 radio="true" tvg-id="RadioBig2" tvg-name="Radio Big2" group-title="BiH" tvg-logo="https://i.imgur.com/ekmJGpF.png",Radio Big2
+http://big2.bigportal.ba:8100/big2
+
+#EXTINF:-1 radio="true" tvg-id="RadioBig3" tvg-name="Radio Big3" group-title="BiH" tvg-logo="https://i.imgur.com/7EcHR5a.png",Radio Big3
+http://big3.bigportal.ba:8100/big3
+
+#EXTINF:-1 radio="true" tvg-id="RadioBig4" tvg-name="Radio Big4" group-title="BiH" tvg-logo="https://i.imgur.com/MkJbCe2.png",Radio Big4
+http://domacica.bigportal.ba:8100/domacica
+
+#EXTINF:-1 radio="true" tvg-id="tdiradio" tvg-name="TDI Radio" group-title="RS" tvg-logo="https://i.imgur.com/MoV86Qt.png",TDI Radio
+http://streaming.tdiradio.com:8000/tdiradiobezreklama
+
+#EXTINF:-1 radio="true" tvg-id="naxibankerradionis" tvg-name="Naxi BANKER Radio Nis" group-title="RS" tvg-logo="https://i.imgur.com/eq8Q5JF.png",Naxi BANKER Radio Nis
+https://banker96-naxinacional.streaming.rs:8542/
+
+#EXTINF:-1 radio="true" tvg-id="naxibankercaferadionis" tvg-name="Naxi BANKER Cafe Radio Nis" group-title="RS" tvg-logo="https://i.imgur.com/eq8Q5JF.png",Naxi BANKER Cafe Radio Nis
+https://bankercafe-naxinacional.streaming.rs:8617/
+
+#EXTINF:-1 radio="true" tvg-id="radiokafanasabac" tvg-name="Radio Kafana Sabac" group-title="RS" tvg-logo="https://i.imgur.com/7xTWhM6.jpeg",Radio Kafana Sabac
+http://stream1.srvnetplus.com:8013
+
+#EXTINF:-1 radio="true" tvg-id="radiozrenjanin" tvg-name="Radio Zrenjanin" group-title="RS" tvg-logo="https://i.imgur.com/nuqMiEd.png",Radio Zrenjanin
+https://radio.dukahosting.com:7031/
+
+#EXTINF:-1 radio="true" tvg-id="radiosljivovicakraljevo" tvg-name="Radio Sljivovica Kraljevo" group-title="RS" tvg-logo="https://i.imgur.com/4MUmUzJ.png",Radio Sljivovica Kraljevo
+https://stream.iradio.pro/proxy/radiosljivovica
+
+#EXTINF:-1 radio="true" tvg-id="radiosumadinac" tvg-name="Radio Sumadinac" group-title="RS" tvg-logo="https://i.imgur.com/uAnFViK.png",Radio Sumadinac
+https://media.srb-streaming.com/stream/radio-sumadinac-narodna
+
+#EXTINF:-1 radio="true" tvg-id="radiostarapazova" tvg-name="Radio Stara Pazova" group-title="RS" tvg-logo="https://i.imgur.com/et7obBp.png",Radio Stara Pazova
+http://95.140.123.22:8000/
+
+#EXTINF:-1 radio="true" tvg-id="RadioMirLeposavic" tvg-name="Radio Mir Leposavic" group-title="RS" tvg-logo="https://i.imgur.com/PVx3dAf.jpeg",Radio Mir Leposavic
+https://stream.iradio.pro/proxy/radiomir?mp=/stream&1753629939754
+
+#EXTINF:-1 radio="true" tvg-id="radiopulsgrocka" tvg-name="Radio Puls Grocka" group-title="RS" tvg-logo="https://i.imgur.com/YX4EeY8.png",Radio Puls Grocka
+https://cmr-hosting.com/8312/stream
+
+#EXTINF:-1 radio="true" tvg-id="resavskiradio" tvg-name="Resavski Radio" group-title="RS" tvg-logo="https://i.imgur.com/1MU6ssL.png",Resavski Radio
+https://e3.radiomorava.rs/radio/8010/resavskiradio128.mp3
+
+#EXTINF:-1 radio="true" tvg-id="radiomorava" tvg-name="Radio Morava" group-title="RS" tvg-logo="https://i.imgur.com/DVxkX68.png",Radio Morava
+https://e3.radiomorava.rs/radio/8000/radiomorava128.mp3
+
+#EXTINF:-1 radio="true" tvg-id="pallasradiokikinda" tvg-name="Pallas Radio Kikinda" group-title="RS" tvg-logo="https://i.imgur.com/pLfreMi.png",Pallas Radio Kikinda
+https://eu9.fastcast4u.com/proxy/svidakov2
+
+#EXTINF:-1 radio="true" tvg-id="radiopingvin" tvg-name="Radio Pingvin" group-title="RS" tvg-logo="https://i.imgur.com/XH7Zusw.png",Radio Pingvin
+http://uzivo.radiopingvin.com/domaci1
+
+#EXTINF:-1 radio="true" tvg-id="radiovrnjackabanja" tvg-name="Radio Vrnjacka Banja" group-title="RS" tvg-logo="https://i.imgur.com/EBR7IvT.png",Radio Vrnjacka Banja
+https://live.rtvvrnjackabanja.com/rvb.mp3
+
+#EXTINF:-1 radio="true" tvg-id="Radio Porto Montenegro" tvg-name="Otvoreni radio" group-title="ME" tvg-logo="https://i.imgur.com/s6yOQ9z.png",Radio Porto Montenegro
+https://malta1491.startdedicated.de:8443/main
+
+#EXTINF:-1 radio="true" tvg-id="RadioCrneGore" tvg-name="Radio Crne Gore" group-title="ME" tvg-logo="https://i.imgur.com/RWmCFDc.png",Radio Crne Gore
+https://rtcgradio-live.morescreens.com/RTCG_1_010/audio/chunklist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="RadioCrneGore2R98" tvg-name="Radio Crne Gore 2 R98" group-title="ME" tvg-logo="https://i.imgur.com/ZMwcPiH.png",Radio Crne Gore 2 R98
+https://rtcgradio-live.morescreens.com/RTCG_1_011/audio/chunklist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="RCGYug" tvg-name="RCG Yug" group-title="ME" tvg-logo="https://i.imgur.com/IkCI9iY.png",RCG Yug
+https://rtcgradio-live.morescreens.com/RTCG_2_004/chunklist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="RCGMillenium" tvg-name="RCG Millenium" group-title="ME" tvg-logo="https://i.imgur.com/258FgPP.png",RCG Millenium
+https://rtcgradio-live.morescreens.com/RTCG_2_002/chunklist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="Otvoreni radio" tvg-name="Otvoreni radio" group-title="HR" tvg-logo="https://i.imgur.com/jrrztV8.png",Otvoreni radio
+http://stream.otvoreni.hr/otvoreni
+
+#EXTINF:-1 radio="true" tvg-id="RadioMax993FM" tvg-name="Radio Max 99.3 MHz FM" group-title="HR" tvg-logo="https://i.imgur.com/dpEYY9G.png",Radio Max 99.3 MHz FM
+https://a7.asurahosting.com:7600/radio.mp3
+
+#EXTINF:-1 radio="true" tvg-id="RadioDalmacija" tvg-name="Radio Dalmacija" group-title="HR" tvg-logo="https://i.imgur.com/GxCC2EF.png",Radio Dalmacija
+http://shoutcast.pondi.hr:8000/
+
+#EXTINF:-1 radio="true" tvg-id="HRRadioKlasik" tvg-name="HRT Radio Klasik" group-title="HR" tvg-logo="https://i.imgur.com/PuN5poO.png",HRT Radio Klasik
+https://28553.live.streamtheworld.com/HR_CLASSICSAAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="HRPop" tvg-name="HRT Radio Pop" group-title="HR" tvg-logo="https://i.imgur.com/PuN5poO.png",HRT Radio Pop
+https://25453.live.streamtheworld.com/HR_POPAAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="HRPrviprogram" tvg-name="HRT Radio Prvi program" group-title="HR" tvg-logo="https://i.imgur.com/PuN5poO.png",HRT Radio Prvi program
+https://23543.live.streamtheworld.com/PROGRAM1AAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="HRDrugiprogram" tvg-name="HRT Radio Drugi program" group-title="HR" tvg-logo="https://i.imgur.com/PuN5poO.png",HRT Radio Drugi program
+https://21633.live.streamtheworld.com/PROGRAM2AAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="HRTreciprogram" tvg-name="HRT Radio Treci program" group-title="HR" tvg-logo="https://i.imgur.com/PuN5poO.png",HRT Radio Treci program
+https://27863.live.streamtheworld.com/PROGRAM3AAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="HRSljeme" tvg-name="HRT Radio Sljeme" group-title="HR" tvg-logo="https://i.imgur.com/PuN5poO.png",HRT Radio Sljeme
+https://25693.live.streamtheworld.com/SLJEMEAAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="HROsijek" tvg-name="HRT Radio Osijek" group-title="HR" tvg-logo="https://i.imgur.com/PuN5poO.png",HRT Radio Osijek
+https://22733.live.streamtheworld.com/OSIJEKAAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="HRPula" tvg-name="HRT Radio Pula" group-title="HR" tvg-logo="https://i.imgur.com/PuN5poO.png",HRT Radio Pula
+https://28503.live.streamtheworld.com/PULAAAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="HRRijeka" tvg-name="HRT Radio Rijeka" group-title="HR" tvg-logo="https://i.imgur.com/PuN5poO.png",HRT Radio Rijeka
+https://22733.live.streamtheworld.com/RIJEKAAAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="HRZadar" tvg-name="HRT Radio Zadar" group-title="HR" tvg-logo="https://i.imgur.com/PuN5poO.png",HRT Radio Zadar
+https://27863.live.streamtheworld.com/ZADARAAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="HRKnin" tvg-name="HRT Radio Knin" group-title="HR" tvg-logo="https://i.imgur.com/PuN5poO.png",HRT Radio Knin
+https://25683.live.streamtheworld.com/KNINAAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="HRSplit" tvg-name="HRT Radio Split" group-title="HR" tvg-logo="https://i.imgur.com/PuN5poO.png",HRT Radio Split
+https://27873.live.streamtheworld.com/SPLITAAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="HRDubrovnik" tvg-name="HR Dubrovnik" group-title="HR" tvg-logo="https://i.imgur.com/PuN5poO.png",HRT Radio Dubrovnik
+https://25683.live.streamtheworld.com/DUBROVNIKAAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="HRGlasHrvatske" tvg-name="HR Glas Hrvatske" group-title="HR" tvg-logo="https://i.imgur.com/PuN5poO.png",HRT Radio Glas Hrvatske
+https://28033.live.streamtheworld.com/VOICEOFCROATIAAAC.aac
