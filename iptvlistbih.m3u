@@ -265,12 +265,10 @@ https://webtvstream.bhtelecom.ba/hls18/star_channel_1200.m3u8
 #EXTINF:-1 tvg-id="starmovies.tv" tvg-name="STAR Movies" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/IhWD6FU.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",STAR Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/hls18/star_movies_1200.m3u8
-http://185.166.252.230/StarMovies/index.m3u8
 
 #EXTINF:-1 tvg-id="starcrime.tv" tvg-name="STAR Crime" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/OOq9UXU.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",STAR Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/hls18/star_crime_1200.m3u8
-http://23.88.66.93/Fox_Crime/index.m3u8
 
 #EXTINF:-1 tvg-id="starlife.tv" tvg-name="STAR Life" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/IuSKz7k.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",STAR Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -290,27 +288,22 @@ https://webtvstream.bhtelecom.ba/nat_geo_wild.m3u8
 
 #EXTINF:-1 tvg-id="hbo1.hr" tvg-name="HBO 1" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/ZWiXFzY.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HBO 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://185.166.252.230/Hbo1/index.m3u8
 http://23.88.66.93/HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo2.hr" tvg-name="HBO 2" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/f7cBEUc.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HBO 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://185.166.252.230/Hbo2/index.m3u8
 http://23.88.66.93/HBO_2/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo3.hr" tvg-name="HBO 3" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/TuHhmZg.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HBO 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://185.166.252.230/Hbo3/index.m3u8
 http://23.88.66.93/HBO_3/index.m3u8
 
 #EXTINF:-1 tvg-id="cinemax1.hr" tvg-name="Cinemax 1" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/7fgexBw.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Cinemax 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://185.166.252.230/Cinemax1/index.m3u8
 http://23.88.66.93/Cinemax/index.m3u8
 
 #EXTINF:-1 tvg-id="cinemax2.hr" tvg-name="Cinemax 2" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/iHU8Bs3.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Cinemax 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://185.166.252.230/Cinemax2/index.m3u8
 http://23.88.66.93/Cinemax_2/index.m3u8
 
 #EXTINF:-1 tvg-id="filmboxextra.hr" tvg-name="Filmbox Extra" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/jKmcspt.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Filmbox Extra
@@ -440,6 +433,7 @@ http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1234&extens
 
 #EXTINF:-1 tvg-id="vox.de" tvg-name="VOX" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/XAXzlGv.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",VOX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://viamotionhsi.netplus.ch/
 https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
 
 #EXTINF:-1 tvg-id="voxup.de" tvg-name="VOXup" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/TvjqHX0.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",VOXup
@@ -484,6 +478,7 @@ http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1275&extens
 
 #EXTINF:-1 tvg-id="nitro.de" tvg-name="Nitro" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/wel9EiH.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Nitro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://viamotionhsi.netplus.ch/
 https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
 
 #EXTINF:-1 tvg-id="comedycentral.de" tvg-name="Comedy Central" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/pnNzWwI.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Comedy Central
