@@ -405,8 +405,7 @@ http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1260&extens
 
 #EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/rtdJh2L.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Sixx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1277&extension=ts
+https://s6.hopslan.com/sixX/index.m3u8
 
 #EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/VTTIoHC.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ZDF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
