@@ -765,6 +765,9 @@ https://stream.rsgmedia.ba/listen/antena_sarajevo/radio.mp3
 #EXTINF:-1 radio="true" tvg-id="radiostarigrad Sarajevo" tvg-name="Radio Stari Grad Sarajevo" group-title="BiH" tvg-logo="https://i.imgur.com/GOCfU1E.png",Radio Stari Grad Sarajevo
 https://stream.rsgmedia.ba/listen/radio_stari_grad/radio.mp3
 
+#EXTINF:-1 radio="true" tvg-id="kalmanradio" tvg-name="Kalman Radio" group-title="BiH" tvg-logo="https://i.imgur.com/hUAjMzD.png",Kalman Radio
+http://188.40.62.20:8004/stream
+
 #EXTINF:-1 radio="true" tvg-id="RadioKozara" tvg-name="Radio Kozara" group-title="BiH" tvg-logo="https://i.imgur.com/vmWAaPP.png",Radio Kozara
 http://51.254.61.148:11111
 
