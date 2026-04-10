@@ -935,3 +935,6 @@ https://a7.asurahosting.com:7600/radio.mp3
 
 #EXTINF:-1 radio="true" tvg-id="RadioDalmacija" tvg-name="Radio Dalmacija" group-title="HR" tvg-logo="https://i.imgur.com/GxCC2EF.png",Radio Dalmacija
 http://shoutcast.pondi.hr:8000/
+
+#EXTINF:-1 radio="true" tvg-id="AntenaZagreb" tvg-name="Antena Zagreb" group-title="HR" tvg-logo="https://i.imgur.com/ZLd8JFW.png",Antena Zagreb
+https://audio.social3.hr/listen/antena_aac
