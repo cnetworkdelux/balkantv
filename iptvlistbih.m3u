@@ -653,8 +653,6 @@ https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mp
 #EXTVLCOPT:http-referrer=https://viamotionhsi.netplus.ch/
 https://viamotionhsi.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
 
-#EXTM3U
-
 #EXTINF:-1 radio="true" tvg-id="NaxiRadio" tvg-name="Naxi Radio" group-title="RS" tvg-logo="https://i.imgur.com/iy70yHc.png",Naxi Radio
 http://naxi128.streaming.rs:9150/
 
@@ -945,6 +943,21 @@ https://r.name.ba:7324
 
 #EXTINF:-1 radio="true" tvg-id="radiorenomepodgorica" tvg-name="Radio Renome Podgorica" group-title="ME" tvg-logo="https://i.imgur.com/G0rJ0u9.png",Radio Renome Podgorica
 https://r.name.ba:7316
+
+#EXTINF:-1 radio="true" tvg-id="radiotitograd" tvg-name="Radio Titograd" group-title="ME" tvg-logo="https://i.imgur.com/FKNVpNt.png",Radio Titograd
+https://stream1.rcast.net/64511
+
+#EXTINF:-1 radio="true" tvg-id="lakiplusradio" tvg-name="Laki Plus Radio" group-title="ME" tvg-logo="https://i.imgur.com/W5LtWci.png",Laki Plus Radio
+https://radiostream.cyou:8030/lakiplus
+
+#EXTINF:-1 radio="true" tvg-id="radiodpluspodgorica" tvg-name="Radio D Plus Podgorica" group-title="ME" tvg-logo="https://i.imgur.com/VGqCDBI.png",Radio D Plus Podgorica
+https://radiodplus.radioca.st/xstream
+
+#EXTINF:-1 radio="true" tvg-id="radioantenam" tvg-name="Radio Antena M" group-title="ME" tvg-logo="https://i.imgur.com/qH78XyJ.png",Radio Antena M
+https://radioservis.me:8010/antenamlive
+
+#EXTINF:-1 radio="true" tvg-id="radiobudva" tvg-name="Radio Budva" group-title="ME" tvg-logo="https://i.imgur.com/nQBY3cj.png",Radio Budva
+https://c14.radioboss.fm/stream/199
 
 #EXTINF:-1 radio="true" tvg-id="Radio Porto Montenegro" tvg-name="Otvoreni radio" group-title="ME" tvg-logo="https://i.imgur.com/s6yOQ9z.png",Radio Porto Montenegro
 https://malta1491.startdedicated.de:8443/main
