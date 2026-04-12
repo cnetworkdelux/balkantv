@@ -34,7 +34,7 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
 
 #EXTINF:-1 tvg-id="rtrs.ba" tvg-name="RTRS" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/4MPd61b.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTRS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
+http://23.88.66.93/RTRS/index.m3u8
 
 #EXTINF:-1 tvg-id="rtrsplus.ba" tvg-name="RTRS Plus" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/FF7Ve9U.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTRS Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
