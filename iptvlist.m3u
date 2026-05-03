@@ -242,34 +242,6 @@ https://best-str.umn.cdn.united.cloud/stream?i=Vn9q8W7mVOG4y6Ui1eK2vA&a=Th9Xz0Yo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://n1-bg-ku-h3-2.umn.cdn.united.cloud/stream?i=aRzPw9q4KOPF3ThIvzGpkw&a=FawmVICC5jAMy4yIZjCx1bXic34dmWE5LAemcTBv8qK8i-LFIKA_aMY0Gohd70oLuekRDzLr_mEE4GR6EGCrpceW-TM6WCZZdBRvsbeSHy2z0vhWTDUxNsJ3Dck7yMSsdunsu-FH90XHNEhFWTaUelFggiS8shWwkNaI1jx9ASgoKFN5sbNPqWAsrRggqFUV6_GF4pnXHSKq1VeiqEcpiWC-q8u6KimXqpJmCyAmqcpJEnxYHmGpSr25C1Qot-x4&sp=n1info&u=n1info&session=e9b84f0e-2361-6872-e9ef-f2936943ee74&player=m3u8
 
-#EXTINF:-1 tvg-id="starchannel.tv" tvg-name="STAR Channel" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/ADZzods.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",STAR Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hls18/star_channel_1200.m3u8
-
-#EXTINF:-1 tvg-id="starmovies.tv" tvg-name="STAR Movies" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/IhWD6FU.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",STAR Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hls18/star_movies_1200.m3u8
-
-#EXTINF:-1 tvg-id="starcrime.tv" tvg-name="STAR Crime" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/OOq9UXU.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",STAR Crime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hls18/star_crime_1200.m3u8
-
-#EXTINF:-1 tvg-id="starlife.tv" tvg-name="STAR Life" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/IuSKz7k.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",STAR Life
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hls18/star_life_1200.m3u8
-
-#EXTINF:-1 tvg-id="24kitchen.tv" tvg-name="24 Kitchen" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/P0tBr1T.png" group-title="Dokumentation" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",24 Kitchen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/24_kitchen.m3u8
-
-#EXTINF:-1 tvg-id="nationalgeographic.tv" tvg-name="National Geographic" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/maf4PwV.png" group-title="Dokumentation" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",National Geographic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/national_geographic.m3u8
-
-#EXTINF:-1 tvg-id="natgeowild.tv" tvg-name="NAT GEO Wild" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/CG6wLnh.png" group-title="Dokumentation" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",NAT GEO Wild
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/nat_geo_wild.m3u8
-
 #EXTINF:-1 tvg-id="filmboxextra.hr" tvg-name="Filmbox Extra" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/jKmcspt.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Filmbox Extra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/hls7/filmbox_extra.m3u8
