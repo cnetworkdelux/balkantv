@@ -562,25 +562,28 @@ https://sslstream.okradio.net/?type=http\u0026nocache=8804
 https://stream.redradio.rs/
 
 #EXTINF:-1 radio="true" tvg-id="Playradio" tvg-name="Play Radio" group-title="RS" tvg-logo="https://i.imgur.com/Y6AZAGK.png",Play Radio
-http://stream.b92.net:7999/radio-b92.mp3
+https://stream.playradio.rs:8443/play.mp3
 
 #EXTINF:-1 radio="true" tvg-id="radiolola" tvg-name="Radio Lola" group-title="RS" tvg-logo="https://i.imgur.com/B5zZ7DQ.png",Radio Lola
-https://streaming.karolina.rs/radiolola.mp3
+https://streaming.tdiradio.com/radiololabezreklama.mp3
 
 #EXTINF:-1 radio="true" tvg-id="radiohitfmbeograd" tvg-name="Radio Hit FM Beograd" group-title="RS" tvg-logo="https://i.imgur.com/o1RGpaI.png",Radio Hit FM Beograd
-https://streaming.hitfm.rs/hit.mp3
+https://streaming.tdiradio.com/hitbezreklama.mp3
 
 #EXTINF:-1 radio="true" tvg-id="radiojat" tvg-name="Radio JAT" group-title="RS" tvg-logo="https://i.imgur.com/nsNWIev.png",Radio JAT
-https://streaming.tdiradio.com/radiojat.mp3
+https://streaming.tdiradio.com/radiojatbezreklama.mp3
+
+#EXTINF:-1 radio="true" tvg-id="radiokarolina" tvg-name="Radio Karolina" group-title="RS" tvg-logo="https://i.imgur.com/PW4Uhwu.png",Radio Karolina
+https://streaming.karolina.rs/karolinabezreklama.mp3
+
+#EXTINF:-1 radio="true" tvg-id="tdiradio" tvg-name="TDI Radio" group-title="RS" tvg-logo="https://i.imgur.com/MoV86Qt.png",TDI Radio
+http://streaming.tdiradio.com:8000/tdiradiobezreklama
 
 #EXTINF:-1 radio="true" tvg-id="radiobeograd1" tvg-name="Radio Beograd 1" group-title="RS" tvg-logo="https://i.imgur.com/QCkbHXh.png",Radio Beograd 1
 https://rtsradio-live.morescreens.com/RTS_2_001/playlist.m3u8
 
 #EXTINF:-1 radio="true" tvg-id="radiobeograd2" tvg-name="Radio Beograd 2" group-title="RS" tvg-logo="https://i.imgur.com/2yszS1y.png",Radio Beograd 2
 https://rtsradio-live.morescreens.com/RTS_2_002/playlist.m3u8
-
-#EXTINF:-1 radio="true" tvg-id="radiobeograd3" tvg-name="Radio Beograd 3" group-title="RS" tvg-logo="https://i.imgur.com/I0i2icP.png",Radio Beograd 3
-https://rtsradio-live.morescreens.com/RTS_2_003/playlist.m3u8
 
 #EXTINF:-1 radio="true" tvg-id="radiobeograd202" tvg-name="Radio Beograd 202" group-title="RS" tvg-logo="https://i.imgur.com/CM9Ig8G.png",Radio Beograd 202
 https://rtsradio-live.morescreens.com/RTS_2_004/playlist.m3u8
@@ -597,9 +600,6 @@ http://big3.bigportal.ba:8100/big3
 #EXTINF:-1 radio="true" tvg-id="RadioBig4" tvg-name="Radio Big4" group-title="BiH" tvg-logo="https://i.imgur.com/MkJbCe2.png",Radio Big4
 http://domacica.bigportal.ba:8100/domacica
 
-#EXTINF:-1 radio="true" tvg-id="tdiradio" tvg-name="TDI Radio" group-title="RS" tvg-logo="https://i.imgur.com/MoV86Qt.png",TDI Radio
-http://streaming.tdiradio.com:8000/tdiradiobezreklama
-
 #EXTINF:-1 radio="true" tvg-id="naxibankerradionis" tvg-name="Naxi BANKER Radio Nis" group-title="RS" tvg-logo="https://i.imgur.com/eq8Q5JF.png",Naxi BANKER Radio Nis
 https://banker96-naxinacional.streaming.rs:8542/
 
@@ -613,7 +613,7 @@ http://stream1.srvnetplus.com:8013
 https://radio.dukahosting.com:7031/
 
 #EXTINF:-1 radio="true" tvg-id="radiouzice" tvg-name="Radio Uzice" group-title="RS" tvg-logo="https://i.imgur.com/f8kJ7ZQ.png",Radio Uzice
-https://uzice.yunethosting.net/stream
+https://radio.rostersoft.cloud/listen/radiouzice/radio.mp3
 
 #EXTINF:-1 radio="true" tvg-id="radiobelleamie" tvg-name="Radio Belle Amie Nis" group-title="RS" tvg-logo="https://i.imgur.com/ILvoMda.png",Radio Belle Amie Nis
 http://92.60.239.23:8000/
@@ -673,7 +673,7 @@ https://r.name.ba:7316
 https://stream1.rcast.net/64511
 
 #EXTINF:-1 radio="true" tvg-id="lakiplusradio" tvg-name="Laki Plus Radio" group-title="ME" tvg-logo="https://i.imgur.com/W5LtWci.png",Laki Plus Radio
-https://radiostream.cyou:8030/lakiplus
+https://radio.adis.com.de:8030/lakiplus
 
 #EXTINF:-1 radio="true" tvg-id="radiodpluspodgorica" tvg-name="Radio D Plus Podgorica" group-title="ME" tvg-logo="https://i.imgur.com/VGqCDBI.png",Radio D Plus Podgorica
 https://radiodplus.radioca.st/xstream
