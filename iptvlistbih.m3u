@@ -788,9 +788,6 @@ https://micorsk.radioca.st/stream
 #EXTINF:-1 radio="true" tvg-id="KrajiskiRadioDubica" tvg-name="Krajiski Radio Dubica" group-title="BiH" tvg-logo="https://i.imgur.com/bLx6biO.png",Krajiski Radio Dubica
 http://shnpdecct1.dihostnet.com:8039
 
-#EXTINF:-1 radio="true" tvg-id="PakaoRadio" tvg-name="Pakao Radio" group-title="BiH" tvg-logo="https://i.imgur.com/jLAvRHC.png",Pakao Radio
-https://securestream.pakaoradio.net/live
-
 #EXTINF:-1 radio="true" tvg-id="RadioDzunglaDobojProgramI" tvg-name="Radio Dzungla Doboj Program I" group-title="BiH" tvg-logo="https://i.imgur.com/ffxaidD.png",Radio Dzungla Doboj Program I
 https://cast2.name.ba/proxy/dzungla/stream
 
