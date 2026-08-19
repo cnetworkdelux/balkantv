@@ -1,60 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="rts1.rs" tvg-name="RTS 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/O1IaLJ5.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://51.83.135.95/RTS1/index.m3u8
-
-#EXTINF:-1 tvg-id="rts2.rs" tvg-name="RTS 2" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/IGeHj1d.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://51.83.135.95/RTS2/index.m3u8
-
-#EXTINF:-1 tvg-id="rts3.rs" tvg-name="RTS 3" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/JIvwg4e.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://51.83.135.95/RTS3/index.m3u8
-
 #EXTINF:-1 tvg-id="rtssvet.rs" tvg-name="RTS Svet" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/1bC7gbZ.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTS Svet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/rts_svet.m3u8
-
-#EXTINF:-1 tvg-id="hrt1.hr" tvg-name="HRT 1" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/Nugckr9.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://23.88.66.93/HRT_1/index.m3u8
-
-#EXTINF:-1 tvg-id="hrt2.hr" tvg-name="HRT 2" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/30aUazb.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://23.88.66.93/HRT_2/index.m3u8
-
-#EXTINF:-1 tvg-id="hrt3.hr" tvg-name="HRT 3" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/FYAHrpi.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://23.88.66.93/HRT_3/index.m3u8
-
-#EXTINF:-1 tvg-id="hrt4.hr" tvg-name="HRT 4" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/anYHNxt.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://23.88.66.93/HRT_4/index.m3u8
-
-#EXTINF:-1 tvg-id="rtrs.ba" tvg-name="RTRS" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/4MPd61b.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTRS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://23.88.66.93/RTRS/index.m3u8
-
-#EXTINF:-1 tvg-id="rtrsplus.ba" tvg-name="RTRS Plus" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/FF7Ve9U.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTRS Plus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/rtrs_plus.m3u8
-
-#EXTINF:-1 tvg-id="bhrt.ba" tvg-name="BHRT" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/eiQOriU.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",BHRT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hls13/bhrtportal_1200.m3u8
-
-#EXTINF:-1 tvg-id="federalna.ba" tvg-name="FTV" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/pbC6sI1.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Federalna TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://185.81.240.65:15000/udp/233.233.233.39:12000
-
-#EXTINF:-1 tvg-id="tvcg1.me" tvg-name="RTCG 1" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/6KYKlP9.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTCG 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://23.88.66.93/RTCG_1/index.m3u8
-
-#EXTINF:-1 tvg-id="tvcg2.me" tvg-name="RTCG 2" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/575R82s.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTCG 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://23.88.66.93/RTCG_2/index.m3u8
 
 #EXTINF:-1 tvg-id="MNE.me" tvg-name="TVCG MNE" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/fHeHvIK.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TVCG MNE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -101,26 +49,6 @@ http://51.83.135.95/RTL2/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
 
-#EXTINF:-1 tvg-id="novatv.hr" tvg-name="Nova TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/CclYlc2.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Nova TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://51.83.135.95/NovaTV/index.m3u8
-
-#EXTINF:-1 tvg-id="prva.rs" tvg-name="Prva (RS)" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/3PgZMHm.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Prva (RS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://51.83.135.95/Prva/index.m3u8
-
-#EXTINF:-1 tvg-id="redtv.rs" tvg-name="Red TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/xzyrNQ9.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Red TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://edge8.pink.rs/redtv/index.m3u8
-
-#EXTINF:-1 tvg-id="pink.rs" tvg-name="Pink" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/iDvPD2y.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Pink
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://edge8.pink.rs/pinktv/index.m3u8
-
-#EXTINF:-1 tvg-id="narodnatv.rs" tvg-name="Narodna TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/pdOQKWJ.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Narodna TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://edge8.pink.rs/narodnatv/index.m3u8
-
 #EXTINF:-1 tvg-id="alternativa.ba" tvg-name="Alternativna Televizija" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/B1a6wBE.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Alternativna Televizija
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.omaxtelecom.com/atvbl/playlist.m3u8
@@ -133,18 +61,6 @@ https://live.tv-m.net/hls/stream.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://toktv.ba/
 https://elara.netcomm.rs/toktv/index.fmp4.m3u8?token=toktv
-
-#EXTINF:-1 tvg-id="hayat.ba" tvg-name="Hayat" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/AdUwzS6.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Hayat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://23.88.66.93/HAYAT/index.m3u8
-
-#EXTINF:-1 tvg-id="obn.ba" tvg-name="OBN" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/5D9STRV.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",OBN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://23.88.66.93/OBN/index.m3u8
-
-#EXTINF:-1 tvg-id="face.ba" tvg-name="FACE" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/EtUSUQn.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",FACE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://23.88.66.93/Face/index.m3u8
 
 #EXTINF:-1 tvg-id="belleamie.rs" tvg-name="TV Belle Amie" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/TG4a6Wt.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV Belle Amie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -274,62 +190,6 @@ https://best-str.umn.cdn.united.cloud/stream?i=Vn9q8W7mVOG4y6Ui1eK2vA&a=Th9Xz0Yo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://n1-bg-ku-r1-1.umn.cdn.united.cloud/stream/fragment/ts/live/?session=f3e94fa5-3ffd-149f-79a0-3d50e6065e2c&offset=568464&pointeroffset=24&fragmentlength=4800
 
-#EXTINF:-1 tvg-id="starchannel.tv" tvg-name="STAR Channel" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/ADZzods.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",STAR Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hls18/star_channel_1200.m3u8
-
-#EXTINF:-1 tvg-id="starmovies.tv" tvg-name="STAR Movies" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/IhWD6FU.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",STAR Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hls18/star_movies_1200.m3u8
-
-#EXTINF:-1 tvg-id="starcrime.tv" tvg-name="STAR Crime" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/OOq9UXU.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",STAR Crime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hls18/star_crime_1200.m3u8
-
-#EXTINF:-1 tvg-id="starlife.tv" tvg-name="STAR Life" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/IuSKz7k.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",STAR Life
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hls18/star_life_1200.m3u8
-
-#EXTINF:-1 tvg-id="24kitchen.tv" tvg-name="24 Kitchen" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/P0tBr1T.png" group-title="Dokumentation" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",24 Kitchen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/24_kitchen.m3u8
-
-#EXTINF:-1 tvg-id="nationalgeographic.tv" tvg-name="National Geographic" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/maf4PwV.png" group-title="Dokumentation" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",National Geographic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/national_geographic.m3u8
-
-#EXTINF:-1 tvg-id="natgeowild.tv" tvg-name="NAT GEO Wild" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/CG6wLnh.png" group-title="Dokumentation" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",NAT GEO Wild
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/nat_geo_wild.m3u8
-
-#EXTINF:-1 tvg-id="hbo1.hr" tvg-name="HBO 1" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/ZWiXFzY.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HBO 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://23.88.66.93/HBO/index.m3u8
-
-#EXTINF:-1 tvg-id="hbo2.hr" tvg-name="HBO 2" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/f7cBEUc.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HBO 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://23.88.66.93/HBO_2/index.m3u8
-
-#EXTINF:-1 tvg-id="hbo3.hr" tvg-name="HBO 3" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/TuHhmZg.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HBO 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://23.88.66.93/HBO_3/index.m3u8
-
-#EXTINF:-1 tvg-id="cinemax1.hr" tvg-name="Cinemax 1" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/7fgexBw.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Cinemax 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://23.88.66.93/Cinemax/index.m3u8
-
-#EXTINF:-1 tvg-id="cinemax2.hr" tvg-name="Cinemax 2" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/iHU8Bs3.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Cinemax 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://23.88.66.93/Cinemax_2/index.m3u8
-
-#EXTINF:-1 tvg-id="filmboxextra.hr" tvg-name="Filmbox Extra" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/jKmcspt.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Filmbox Extra
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hls7/filmbox_extra.m3u8
-
-#EXTINF:-1 tvg-id="filmboxstars.hr" tvg-name="Filmbox Stars" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/fTES9tU.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Filmbox Stars
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8
-
 #EXTINF:-1 tvg-id="orf1.at" tvg-name="ORF 1" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/WSqeX2z.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ORF 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://test04.mdn.ors.at/orf/orf1/qxb/manifest.m3u8
@@ -384,24 +244,9 @@ https://webtvstream.bhtelecom.ba/prosieben.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://s6.hopslan.com/pro7maxxX/index.m3u8
 
-#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="ProSieben Fun" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/qTln570.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ProSieben Fun
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://s6.hopslan.com/pro7z/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1 tvg-id="sat1.de" tvg-name="Sat.1" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/otaPnRJ.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Sat.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://5.180.164.197:8080/SAT1/index.m3u8
-
-#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="Sat.1 Gold" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/K9PDIqk.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Sat.1 Gold
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://5.180.164.197:8080/SAT1GOLD/index.m3u8
-
-#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="Sat.1 Emotions" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/fwwY5Vc.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Sat.1 Emotions
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1254&extension=ts
 
 #EXTINF:-1 tvg-id="kabeleins.de" tvg-name="Kabel Eins" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/i9A0Ktr.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Kabel Eins
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -410,11 +255,6 @@ https://s6.hopslan.com/kabel1z/index.m3u8
 #EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="Kabel Eins Doku" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/LWvwEMV.png" group-title="Dokumentation" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Kabel Eins Doku
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://s6.hopslan.com/dokuX/index.m3u8
-
-#EXTINF:-1 tvg-id="kabeleinsclassics.de" tvg-name="Kabel Eins Classics" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/di2tJGx.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Kabel Eins Classics
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1260&extension=ts
 
 #EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/rtdJh2L.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Sixx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -444,12 +284,7 @@ https://s6.hopslan.com/ardX/index.m3u8
 #EXTINF:-1 tvg-id="vox.de" tvg-name="VOX" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/XAXzlGv.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",VOX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://viamotionhsi.netplus.ch/
-http://5.180.164.197:8080/VOX/index.m3u8
-
-#EXTINF:-1 tvg-id="voxup.de" tvg-name="VOXup" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/TvjqHX0.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",VOXup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1257&extension=ts
+https://s6.hopslan.com/voxz/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL (DE)" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/tKPUTOh.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTL (DE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
