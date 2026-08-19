@@ -262,7 +262,7 @@ https://s6.hopslan.com/dokuX/index.m3u8
 
 #EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/rtdJh2L.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Sixx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://s6.hopslan.com/sixX/index.m3u8
+https://s6.hopslan.com/sixX/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/VTTIoHC.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ZDF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -322,18 +322,15 @@ https://s6.hopslan.com/tele5X/index.m3u8
 
 #EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney Channel" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/BIJpgjn.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://viamotionhsi.netplus.ch/
-https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-dash/disneychannelde.mpd
+https://s6.hopslan.com/disneyX/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="arte.de" tvg-name="Arte (DE)" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/R3TwqGp.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arte (DE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1280&extension=ts
 
 #EXTINF:-1 tvg-id="dmax.de" tvg-name="DMAX" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/SoMgbmi.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",DMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://viamotionhsi.netplus.ch/
-https://s6.hopslan.com/dmaxX/index.m3u8
+https://s6.hopslan.com/dmaxX/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="tlc.de" tvg-name="TLC" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/pVmyEAk.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TLC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
