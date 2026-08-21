@@ -532,13 +532,13 @@ https://streaming.tdiradio.com/radiololabezreklama.mp3
 https://streaming.tdiradio.com/hitbezreklama.mp3
 
 #EXTINF:-1 radio="true" tvg-id="radiojat" tvg-name="Radio JAT" group-title="RS" tvg-logo="https://i.imgur.com/nsNWIev.png",Radio JAT
-https://streaming.tdiradio.com/radiojatbezreklama.mp3
+https://streaming.tdiradio.com/radiojat.mp3
 
 #EXTINF:-1 radio="true" tvg-id="radiokarolina" tvg-name="Radio Karolina" group-title="RS" tvg-logo="https://i.imgur.com/PW4Uhwu.png",Radio Karolina
-https://streaming.karolina.rs/karolinabezreklama.mp3
+https://streaming.karolina.rs/karolina.mp3
 
 #EXTINF:-1 radio="true" tvg-id="tdiradio" tvg-name="TDI Radio" group-title="RS" tvg-logo="https://i.imgur.com/MoV86Qt.png",TDI Radio
-http://streaming.tdiradio.com:8000/tdiradiobezreklama
+https://streaming.tdiradio.com/tdiradio.mp3
 
 #EXTINF:-1 radio="true" tvg-id="radiobeograd1" tvg-name="Radio Beograd 1" group-title="RS" tvg-logo="https://i.imgur.com/QCkbHXh.png",Radio Beograd 1
 https://rtsradio-live.morescreens.com/RTS_2_001/playlist.m3u8
@@ -567,26 +567,17 @@ https://banker96-naxinacional.streaming.rs:8542/
 #EXTINF:-1 radio="true" tvg-id="naxibankercaferadionis" tvg-name="Naxi BANKER Cafe Radio Nis" group-title="RS" tvg-logo="https://i.imgur.com/eq8Q5JF.png",Naxi BANKER Cafe Radio Nis
 https://bankercafe-naxinacional.streaming.rs:8617/
 
-#EXTINF:-1 radio="true" tvg-id="radiokafanasabac" tvg-name="Radio Kafana Sabac" group-title="RS" tvg-logo="https://i.imgur.com/7xTWhM6.jpeg",Radio Kafana Sabac
-http://stream1.srvnetplus.com:8013
-
 #EXTINF:-1 radio="true" tvg-id="radiozrenjanin" tvg-name="Radio Zrenjanin" group-title="RS" tvg-logo="https://i.imgur.com/nuqMiEd.png",Radio Zrenjanin
 https://radio.dukahosting.com:7031/
 
 #EXTINF:-1 radio="true" tvg-id="radiouzice" tvg-name="Radio Uzice" group-title="RS" tvg-logo="https://i.imgur.com/f8kJ7ZQ.png",Radio Uzice
 https://radio.rostersoft.cloud/listen/radiouzice/radio.mp3
 
-#EXTINF:-1 radio="true" tvg-id="radiobelleamie" tvg-name="Radio Belle Amie Nis" group-title="RS" tvg-logo="https://i.imgur.com/ILvoMda.png",Radio Belle Amie Nis
-http://92.60.239.23:8000/
-
 #EXTINF:-1 radio="true" tvg-id="radiosljivovicakraljevo" tvg-name="Radio Sljivovica Kraljevo" group-title="RS" tvg-logo="https://i.imgur.com/4MUmUzJ.png",Radio Sljivovica Kraljevo
 https://stream.iradio.pro/proxy/radiosljivovica
 
 #EXTINF:-1 radio="true" tvg-id="radiosumadinac" tvg-name="Radio Sumadinac" group-title="RS" tvg-logo="https://i.imgur.com/uAnFViK.png",Radio Sumadinac
 https://media.srb-streaming.com/stream/radio-sumadinac-narodna
-
-#EXTINF:-1 radio="true" tvg-id="radiostarapazova" tvg-name="Radio Stara Pazova" group-title="RS" tvg-logo="https://i.imgur.com/et7obBp.png",Radio Stara Pazova
-http://95.140.123.22:8000/
 
 #EXTINF:-1 radio="true" tvg-id="RadioMirLeposavic" tvg-name="Radio Mir Leposavic" group-title="RS" tvg-logo="https://i.imgur.com/PVx3dAf.jpeg",Radio Mir Leposavic
 https://stream.iradio.pro/proxy/radiomir?mp=/stream&1753629939754
@@ -652,7 +643,7 @@ https://malta1491.startdedicated.de:8443/main
 http://stream.otvoreni.hr/otvoreni
 
 #EXTINF:-1 radio="true" tvg-id="RadioMax993FM" tvg-name="Radio Max 99.3 MHz FM" group-title="HR" tvg-logo="https://i.imgur.com/dpEYY9G.png",Radio Max 99.3 MHz FM
-https://a7.asurahosting.com:7600/radio.mp3
+https://azuracast.novi-net.net/radio/8010/radiomax.aac
 
 #EXTINF:-1 radio="true" tvg-id="RadioDalmacija" tvg-name="Radio Dalmacija" group-title="HR" tvg-logo="https://i.imgur.com/GxCC2EF.png",Radio Dalmacija
 http://shoutcast.pondi.hr:8000/
