@@ -69,9 +69,9 @@ https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=nova
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://51.83.135.95/NovaTV/index.m3u8
 
-#EXTINF:-1 tvg-id="prva.rs" tvg-name="Prva (RS)" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/3PgZMHm.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Prva (RS)
+#EXTINF:-1 tvg-id="tvsuper.rs" tvg-name="TV Super" tvg-country="RS" tvg-language="SRP" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV Super
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://51.83.135.95/Prva/index.m3u8
+https://streaming.ataxmedia.com/hls/MerakTV/main_stream.m3u8
 
 #EXTINF:-1 tvg-id="televizijam.ba" tvg-name="Televizija M" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/40hzNPs.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Televizija M
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
