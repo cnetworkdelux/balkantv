@@ -183,11 +183,11 @@ https://n1-bg-ku-r1-1.umn.cdn.united.cloud/stream/fragment/ts/live/?session=f3e9
 
 #EXTINF:-1 tvg-id="orf1.at" tvg-name="ORF 1" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/WSqeX2z.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ORF 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://s6.hopslan.com/orf1/index.m3u8
+https://s6.hopslan.com/orf1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="servustv.at" tvg-name="ServusTV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/57XsxtR.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ServusTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://s6.hopslan.com/servuz1/index.m3u8
+https://s6.hopslan.com/servuz1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="prosieben.de" tvg-name="ProSieben" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/ZHVGSH4.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ProSieben
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -195,11 +195,11 @@ https://s6.hopslan.com/pro7z/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="ProSieben Maxx" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/LOQ8CSg.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ProSieben Maxx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://s6.hopslan.com/pro7maxxX/index.m3u8
+https://s6.hopslan.com/pro7maxxX/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="sat1.de" tvg-name="Sat.1" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/otaPnRJ.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Sat.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://s6.hopslan.com/sat1z/index.m3u8
+https://s6.hopslan.com/sat1z/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="sat1gold.de" tvg-name="Sat.1 Gold" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/K9PDIqk.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Sat.1 Gold
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -207,11 +207,11 @@ https://s6.hopslan.com/goldX/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="kabeleins.de" tvg-name="Kabel Eins" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/i9A0Ktr.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Kabel Eins
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://s6.hopslan.com/kabel1z/index.m3u8
+https://s6.hopslan.com/kabel1z/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="Kabel Eins Doku" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/LWvwEMV.png" group-title="Dokumentation" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Kabel Eins Doku
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://s6.hopslan.com/dokuX/index.m3u8
+https://s6.hopslan.com/dokuX/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/rtdJh2L.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Sixx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -219,7 +219,7 @@ https://s6.hopslan.com/sixX/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/VTTIoHC.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ZDF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://s6.hopslan.com/zdfX1/index.m3u8
+https://s6.hopslan.com/zdfX1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="zdfneo.de" tvg-name="ZDFneo" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/Xo6fuQe.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ZDFneo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -231,29 +231,27 @@ https://s6.hopslan.com/voxz/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL (DE)" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/tKPUTOh.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTL (DE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://s6.hopslan.com/rtltt/index.m3u8
+https://s6.hopslan.com/rtltt/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL2 (DE)" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/eExyQ23.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTL 2 (DE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://s6.hopslan.com/rtl2q/index.m3u8
+https://s6.hopslan.com/rtl2q/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="superrtl.de" tvg-name="Super RTL" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/dhdwzoQ.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Super RTL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://s6.hopslan.com/superX/index.m3u8
+https://s6.hopslan.com/superX/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="nitro.de" tvg-name="Nitro" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/wel9EiH.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Nitro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://s6.hopslan.com/nitro1/index.m3u8
+https://s6.hopslan.com/nitro1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="comedycentral.de" tvg-name="Comedy Central" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/pnNzWwI.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Comedy Central
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://viamotionhsi.netplus.ch/
 http://5.180.164.197:8080/COMEDYCENTRAL/index.m3u8
 
 #EXTINF:-1 tvg-id="tele5.de" tvg-name="Tele 5" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/2jc0bik.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Tele 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://viamotionhsi.netplus.ch/
-https://s6.hopslan.com/tele5X/index.m3u8
+https://s6.hopslan.com/tele5X/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney Channel" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/BIJpgjn.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -265,7 +263,7 @@ https://s6.hopslan.com/dmaxX/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="tlc.de" tvg-name="TLC" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/pVmyEAk.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TLC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://s6.hopslan.com/tlcX/index.m3u8
+https://s6.hopslan.com/tlcX/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="ntv" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/rMu48Fq.png" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ntv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
